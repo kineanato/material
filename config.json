@@ -1,0 +1,209 @@
+{
+  "fechas": {
+    "tp1": "2024-03-16",
+    "tp2": "2024-03-23",
+    "tp3": "2024-03-30",
+    "tp4": "2024-04-06",
+    "tp5": "2024-04-13",
+    "tp6": "2024-04-20",
+    "tp7": "2024-04-27",
+    "tp8": "2024-05-04"
+  },
+  "modulos": [
+    {
+      "id": 1,
+      "nombre": "MÓDULO I",
+      "color": "#3498db",
+      "fechas": "16/3 - 22/5",
+      "observaciones": "Clase inaugural 16-3 11:00 hs (remota sincrónica)",
+      "semanas": [
+        { "rango": "16/3 - 20/3", "tp": 1, "obs": "Clase inaugural 16-3" },
+        { "rango": "23/3 - 27/3", "tp": 2, "obs": "Lunes 23 y martes 24/3 FERIADO" },
+        { "rango": "30/3 - 3/4", "tp": 2, "obs": "Miércoles 1/4 NO HAY CLASES. Jueves 2 y viernes 3/4 FERIADO" },
+        { "rango": "6/4 - 10/4", "tp": 3 },
+        { "rango": "13/4 - 17/4", "tp": 4 },
+        { "rango": "20/4 - 24/4", "tp": 5 },
+        { "rango": "27/4 - 1/5", "tp": 6, "obs": "1/5 FERIADO - Recuperar en otra comisión" },
+        { "rango": "4/5 - 8/5", "tp": 7 },
+        { "rango": "11/5 - 15/5", "tp": 8 },
+        { "rango": "18/5 - 22/5", "tp": 9 }
+      ],
+      "parciales": [
+        { "tipo": "I PARCIAL TEÓRICO", "fecha": "SÁBADO 23/5" },
+        { "tipo": "I PARCIAL PRÁCTICO", "fecha": "26/5 - 29/5", "obs": "LUNES 25/5 FERIADO" }
+      ]
+    },
+    {
+      "id": 2,
+      "nombre": "MÓDULO II",
+      "color": "#e67e22",
+      "fechas": "1/6 - 15/8",
+      "observaciones": "RECESO DE INVIERNO: 20/7 al 31/7",
+      "semanas": [
+        { "rango": "1/6 - 5/6", "tp": 10 },
+        { "rango": "8/6 - 12/6", "tp": 11, "obs": "Recuperatorio 1er parcial (1ra opción)" },
+        { "rango": "15/6 - 19/6", "tp": 12, "obs": "15/6 FERIADO - Recuperar en otra comisión" },
+        { "rango": "22/6 - 26/6", "tp": 13 },
+        { "rango": "29/6 - 3/7", "tp": 14 },
+        { "rango": "6/7 - 10/7", "tp": 15, "obs": "9 y 10/7 FERIADO - Recuperar en otra comisión" },
+        { "rango": "13/7 - 17/7", "tp": 16 },
+        { "rango": "3/8 - 7/8", "tp": 17 },
+        { "rango": "10/8 - 14/8", "tp": 18 }
+      ],
+      "parciales": [
+        { "tipo": "II PARCIAL TEÓRICO", "fecha": "SÁBADO 15/8" },
+        { "tipo": "II PARCIAL PRÁCTICO", "fecha": "18/8 - 21/8", "obs": "LUNES 17/8 FERIADO" }
+      ]
+    },
+    {
+      "id": 3,
+      "nombre": "MÓDULO III",
+      "color": "#27ae60",
+      "fechas": "24/8 - 30/11",
+      "semanas": [
+        { "rango": "24/8 - 28/8", "tp": 19 },
+        { "rango": "31/8 - 4/9", "tp": 20, "obs": "Recuperatorio 2do parcial (1ra opción)" },
+        { "rango": "7/9 - 11/9", "tp": 21 },
+        { "rango": "14/9 - 18/9", "obs": "SEMANA DE JORNADAS (NO HAY CLASES)" },
+        { "rango": "21/9 - 25/9", "tp": 22 },
+        { "rango": "28/9 - 2/10", "tp": 23 },
+        { "rango": "5/10 - 9/10", "tp": 24 },
+        { "rango": "12/10 - 16/10", "tp": 25, "obs": "12/10 FERIADO - Recuperar en otra comisión" },
+        { "rango": "19/10 - 23/10", "tp": 26 },
+        { "rango": "26/10 - 30/10", "tp": 27 }
+      ],
+      "parciales": [
+        { "tipo": "III PARCIAL TEÓRICO", "fecha": "SÁBADO 31/10" },
+        { "tipo": "III PARCIAL PRÁCTICO", "fecha": "2/11 - 6/11", "obs": "LUNES 2/11 REVISIÓN NOTA 3" },
+        { "tipo": "REPASOS PRÁCTICOS", "fecha": "9/11 - 13/11" },
+        { "tipo": "RECUPERATORIOS 3er parcial", "fecha": "16/11 - 20/11" },
+        { "tipo": "RECUPERATORIOS", "fecha": "24/11 - 27/11", "obs": "24/11: 1er parcial (2da), 25/11: 2do parcial (2da), 26/11: 3er parcial (2da)" }
+      ],
+      "finales": [
+        { "fecha": "LUNES 30/11 13:00 hs", "tipo": "PRIMERA FECHA" },
+        { "fecha": "MIÉRCOLES 9/12 08:00 hs", "tipo": "SEGUNDA FECHA" },
+        { "fecha": "LUNES 14/12 13:00 hs", "tipo": "TERCERA FECHA" }
+      ]
+    }
+  ],
+  "materiales": [
+    {
+      "tp": 1,
+      "titulo": "Introducción a la Anatomía",
+      "materiales": {
+        "teoricos": [
+          { "nombre": "1 - Introducción Anatomía", "url": "https://drive.google.com/file/d/1aqvJWfofh4ZQhz5BH-BtxHclvDlpLI8x/view" }
+        ],
+        "practicos": [
+          { "nombre": "1 - ORIENTACION PARA EL 1° PRACTICO.mp4", "url": "https://drive.google.com/file/d/1JQaLgmwzv9mdS8V1vNkJV05zDlExH2aa/view" }
+        ],
+        "preparados": []
+      }
+    },
+    {
+      "tp": 2,
+      "titulo": "Miembro Superior - Osteología y Artrología",
+      "materiales": {
+        "teoricos": [
+          { "nombre": "2 - Introducción Artrología", "url": "https://drive.google.com/file/d/11RFDoNh_HXhvSVvCb3XKXTcqP4dVVtKG/view" }
+        ],
+        "practicos": [
+          { "nombre": "2 - Segundo TP Miembro Superior.mp4", "url": "https://drive.google.com/file/d/1Qgp3fvLwvkQtej_OAMNDzy1AiR_jYE19/view" }
+        ],
+        "preparados": []
+      }
+    },
+    {
+      "tp": 3,
+      "titulo": "Miembro Superior - Miología",
+      "materiales": {
+        "teoricos": [
+          { "nombre": "3 - Introducción Miología", "url": "https://drive.google.com/file/d/11VBQ-J9IaEooSL56JVtx81HqyA60ELrI/view" }
+        ],
+        "practicos": [
+          { "nombre": "3 - Tercer TP Miembro Superior.mp4", "url": "https://drive.google.com/file/d/1QHhOsO9zzUpFRRmVpLvUIvkCc_L6KsZS/view" }
+        ],
+        "preparados": []
+      }
+    },
+    {
+      "tp": 4,
+      "titulo": "Miembro Superior - Angiología y Nervios",
+      "materiales": {
+        "teoricos": [
+          { "nombre": "4 - Angiología", "url": "https://drive.google.com/file/d/1kBOrBG-OhtmTnemF0jbHWVEIU_MrqDvE/view" },
+          { "nombre": "4 - Neurología", "url": "https://drive.google.com/file/d/1FbjZvDRRdVvYVXcLBsr7R8ghozLgAX_r/view" }
+        ],
+        "practicos": [
+          { "nombre": "4 - ANGIOLOGIA DEL MIEMBRO SUPERIOR.mp4", "url": "https://drive.google.com/file/d/1gdjHTJWxi71EaC-yc1sLKqEBdXgD8zTm/view" },
+          { "nombre": "4 - INERVACION MIEMBRO SUPERIOR.mp4", "url": "https://drive.google.com/file/d/16frOzkgytRskvjX20-ps5C9bBI4Q4QGb/view" }
+        ],
+        "preparados": []
+      }
+    },
+    {
+      "tp": 5,
+      "titulo": "Miembro Superior - Topografía",
+      "materiales": {
+        "teoricos": [
+          { "nombre": "5 - Aponeurosis MS", "url": "https://drive.google.com/file/d/1amXZXKRj_wRr_VbujjjnbIqY4DAQdkgH/view" }
+        ],
+        "practicos": [
+          { "nombre": "5 - TOPOGRAFIA DE MIEMBRO SUPERIOR.mp4", "url": "https://drive.google.com/file/d/1jrAcZ1Zp9jT2rUhiAR4mCoa-ymVkYAo7/view" }
+        ],
+        "preparados": []
+      }
+    },
+    {
+      "tp": 6,
+      "titulo": "Miembro Inferior - Osteología y Artrología",
+      "materiales": {
+        "teoricos": [
+          { "nombre": "6 - Intro Osteo Artro Mi", "url": "https://drive.google.com/file/d/1A_aPcBoKwdx8t88EJLsf1FoHsF0_D2ih/view" }
+        ],
+        "practicos": [
+          { "nombre": "6 - TP OSTEOLOGIA MIEMBRO INFERIOR.mp4", "url": "https://drive.google.com/file/d/1GlLRmCD6h6NvkgRMY6J2ipXoK_XYexbZ/view" },
+          { "nombre": "6 - TP ARTROLOGIA MIEMBRO INFERIOR.mp4", "url": "https://drive.google.com/file/d/1Fv3ZpCIM6NvZwCp7a0t1JKAVV-86j458/view" }
+        ],
+        "preparados": [
+          { "nombre": "6_2_b - TP ARTROLOGIA MIEMBRO INFERIOR_Preparados.mp4", "url": "https://drive.google.com/file/d/1hSOMsUB-sUMeW6oT_qaiiCT4MIwiR93v/view" }
+        ]
+      }
+    },
+    {
+      "tp": 7,
+      "titulo": "Miembro Inferior - Miología e Inervación",
+      "materiales": {
+        "teoricos": [
+          { "nombre": "7 - Aponeurosis MI", "url": "https://drive.google.com/file/d/1niRpvZERbm7TWqBxXE6fi_CwQsJ5fwsH/view" },
+          { "nombre": "7 - Neuro MI", "url": "https://drive.google.com/file/d/1SctWGPOUVNa7mc3rFUkxlpQc8FhP0K9p/view" }
+        ],
+        "practicos": [
+          { "nombre": "7 - TP MIOLOGIA MIEMBRO INFERIOR.mp4", "url": "https://drive.google.com/file/d/1a392J4yJKubdk2FWb5X9cRdHnhIa5kIP/view" },
+          { "nombre": "7 - TP INERVACION MIEMBRO INFERIOR.mp4", "url": "https://drive.google.com/file/d/1V8ftDBbknWEWiqdf6RE-hM_TbG0OXyv_/view" }
+        ],
+        "preparados": [
+          { "nombre": "7_1_b - TP MIOLOGIA MIEMBRO INFERIOR_Preparados.mp4", "url": "https://drive.google.com/file/d/1x1w5eiWf5cSjvH0Coxtra4I0bd3X2RK0/view" },
+          { "nombre": "7_2_b - TP INERVACION MIEMBRO INFERIOR_Preparados.mp4", "url": "https://drive.google.com/file/d/15Nt2qMxlUA_j1o9UK7dBeIhOrVKKHqgK/view" }
+        ]
+      }
+    },
+    {
+      "tp": 8,
+      "titulo": "Miembro Inferior - Angiología y Topografía",
+      "materiales": {
+        "teoricos": [
+          { "nombre": "8 - Angiologia MI", "url": "https://drive.google.com/file/d/18Ofy0qm_pbJXK146aH2BB7sBm2N70bCG/view" }
+        ],
+        "practicos": [
+          { "nombre": "8 - ANGIOLOGIA MIEMBRO INFERIOR.mp4", "url": "https://drive.google.com/file/d/1jPF39RlVkKBV-h9LvBMLlP9K_A0Bkmnx/view" },
+          { "nombre": "8 - TOPOGRAFIA MIEMBRO INFERIOR.mp4", "url": "https://drive.google.com/file/d/1f8pcoGb2Xt2M_HXdNeedm13rJIo-M1Ni/view" }
+        ],
+        "preparados": [
+          { "nombre": "8_1_b - TP ANGIOLOGIA MIEMBRO INFERIOR_Preparados.mp4", "url": "https://drive.google.com/file/d/1chNumvzwGapWYTqNkUoVyQ0a-Gk39WuO/view" },
+          { "nombre": "8_2_b - TOPOGRAFIA MIEMBRO INFERIOR_Preparados.mp4", "url": "https://drive.google.com/file/d/1FLfyBI7JcOZveXsYu-UZRUJQFtiio0Ky/view" }
+        ]
+      }
+    }
+  ]
+}
