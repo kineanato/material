@@ -223,204 +223,204 @@
     }
   ],
 "materiales": [
-    {
-      "tp": 1,
-      "titulo": "Introducción a la Anatomía - osteología MS",
-      "materiales": {
-        "teoricos": [
-          {
-            "nombre": "1 - Introducción Anatomía",
-            "url": "https://drive.google.com/file/d/1aqvJWfofh4ZQhz5BH-BtxHclvDlpLI8x/preview"
-          }
-        ],
-        "practicos": [
-          {
-            "nombre": "1 - ORIENTACION PARA EL 1° PRACTICO.mp4",
-            "url": "https://drive.google.com/file/d/1JQaLgmwzv9mdS8V1vNkJV05zDlExH2aa/preview"
-          }
-        ],
-        "preparados": []
-      }
-    },
-    {
-      "tp": 2,
-      "titulo": "Miembro Superior -  Artrología",
-      "materiales": {
-        "teoricos": [
-          {
-            "nombre": "2 - Introducción Artrología",
-            "url": "https://drive.google.com/file/d/11RFDoNh_HXhvSVvCb3XKXTcqP4dVVtKG/preview"
-          }
-        ],
-        "practicos": [
-          {
-            "nombre": "2 - Segundo TP Miembro Superior.mp4",
-            "url": "https://drive.google.com/file/d/1Qgp3fvLwvkQtej_OAMNDzy1AiR_jYE19/preview"
-          }
-        ],
-        "preparados": []
-      }
-    },
-    {
-      "tp": 3,
-      "titulo": "Miembro Superior - Miología",
-      "materiales": {
-        "teoricos": [
-          {
-            "nombre": "3 - Introducción Miología",
-            "url": "https://drive.google.com/file/d/11VBQ-J9IaEooSL56JVtx81HqyA60ELrI/preview"
-          }
-        ],
-        "practicos": [
-          {
-            "nombre": "3 - Tercer TP Miembro Superior.mp4",
-            "url": "https://drive.google.com/file/d/1QHhOsO9zzUpFRRmVpLvUIvkCc_L6KsZS/preview"
-          }
-        ],
-        "preparados": []
-      }
-    },
-    {
-      "tp": 4,
-      "titulo": "Miembro Superior - Angiología y Nervios",
-      "materiales": {
-        "teoricos": [
-          {
-            "nombre": "4 - Angiología",
-            "url": "https://drive.google.com/file/d/1kBOrBG-OhtmTnemF0jbHWVEIU_MrqDvE/preview"
-          },
-          {
-            "nombre": "4 - Neurología",
-            "url": "https://drive.google.com/file/d/1FbjZvDRRdVvYVXcLBsr7R8ghozLgAX_r/preview"
-          }
-        ],
-        "practicos": [
-          {
-            "nombre": "4 - ANGIOLOGIA DEL MIEMBRO SUPERIOR.mp4",
-            "url": "https://drive.google.com/file/d/1gdjHTJWxi71EaC-yc1sLKqEBdXgD8zTm/preview"
-          },
-          {
-            "nombre": "4 - INERVACION MIEMBRO SUPERIOR.mp4",
-            "url": "https://drive.google.com/file/d/16frOzkgytRskvjX20-ps5C9bBI4Q4QGb/preview"
-          }
-        ],
-        "preparados": []
-      }
-    },
-    {
-      "tp": 5,
-      "titulo": "Miembro Superior - Topografía",
-      "materiales": {
-        "teoricos": [
-          {
-            "nombre": "5 - Aponeurosis MS",
-            "url": "https://drive.google.com/file/d/1amXZXKRj_wRr_VbujjjnbIqY4DAQdkgH/preview"
-          }
-        ],
-        "practicos": [
-          {
-            "nombre": "5 - TOPOGRAFIA DE MIEMBRO SUPERIOR.mp4",
-            "url": "https://drive.google.com/file/d/1jrAcZ1Zp9jT2rUhiAR4mCoa-ymVkYAo7/preview"
-          }
-        ],
-        "preparados": []
-      }
-    },
-    {
-      "tp": 6,
-      "titulo": "Miembro Inferior - Osteología y Artrología",
-      "materiales": {
-        "teoricos": [
-          {
-            "nombre": "6 - Intro Osteo Artro Mi",
-            "url": "https://drive.google.com/file/d/1A_aPcBoKwdx8t88EJLsf1FoHsF0_D2ih/preview"
-          }
-        ],
-        "practicos": [
-          {
-            "nombre": "6 - TP OSTEOLOGIA MIEMBRO INFERIOR.mp4",
-            "url": "https://drive.google.com/file/d/1GlLRmCD6h6NvkgRMY6J2ipXoK_XYexbZ/preview"
-          },
-          {
-            "nombre": "6 - TP ARTROLOGIA MIEMBRO INFERIOR.mp4",
-            "url": "https://drive.google.com/file/d/1Fv3ZpCIM6NvZwCp7a0t1JKAVV-86j458/preview"
-          }
-        ],
-        "preparados": [
-          {
-            "nombre": "6_2_b - TP ARTROLOGIA MIEMBRO INFERIOR_Preparados.mp4",
-            "url": "https://drive.google.com/file/d/1hSOMsUB-sUMeW6oT_qaiiCT4MIwiR93v/preview"
-          }
-        ]
-      }
-    },
-    {
-      "tp": 7,
-      "titulo": "Miembro Inferior - Miología e Inervación",
-      "materiales": {
-        "teoricos": [
-          {
-            "nombre": "7 - Aponeurosis MI",
-            "url": "https://drive.google.com/file/d/1niRpvZERbm7TWqBxXE6fi_CwQsJ5fwsH/preview"
-          },
-          {
-            "nombre": "7 - Neuro MI",
-            "url": "https://drive.google.com/file/d/1SctWGPOUVNa7mc3rFUkxlpQc8FhP0K9p/preview"
-          }
-        ],
-        "practicos": [
-          {
-            "nombre": "7 - TP MIOLOGIA MIEMBRO INFERIOR.mp4",
-            "url": "https://drive.google.com/file/d/1a392J4yJKubdk2FWb5X9cRdHnhIa5kIP/preview"
-          },
-          {
-            "nombre": "7 - TP INERVACION MIEMBRO INFERIOR.mp4",
-            "url": "https://drive.google.com/file/d/1V8ftDBbknWEWiqdf6RE-hM_TbG0OXyv_/preview"
-          }
-        ],
-        "preparados": [
-          {
-            "nombre": "7_1_b - TP MIOLOGIA MIEMBRO INFERIOR_Preparados.mp4",
-            "url": "https://drive.google.com/file/d/1x1w5eiWf5cSjvH0Coxtra4I0bd3X2RK0/preview"
-          },
-          {
-            "nombre": "7_2_b - TP INERVACION MIEMBRO INFERIOR_Preparados.mp4",
-            "url": "https://drive.google.com/file/d/15Nt2qMxlUA_j1o9UK7dBeIhOrVKKHqgK/preview"
-          }
-        ]
-      }
-    },
-    {
-      "tp": 8,
-      "titulo": "Miembro Inferior - Angiología y Topografía",
-      "materiales": {
-        "teoricos": [
-          {
-            "nombre": "8 - Angiologia MI",
-            "url": "https://drive.google.com/file/d/18Ofy0qm_pbJXK146aH2BB7sBm2N70bCG/preview"
-          }
-        ],
-        "practicos": [
-          {
-            "nombre": "8 - ANGIOLOGIA MIEMBRO INFERIOR.mp4",
-            "url": "https://drive.google.com/file/d/1jPF39RlVkKBV-h9LvBMLlP9K_A0Bkmnx/preview"
-          },
-          {
-            "nombre": "8 - TOPOGRAFIA MIEMBRO INFERIOR.mp4",
-            "url": "https://drive.google.com/file/d/1f8pcoGb2Xt2M_HXdNeedm13rJIo-M1Ni/preview"
-          }
-        ],
-        "preparados": [
-          {
-            "nombre": "8_1_b - TP ANGIOLOGIA MIEMBRO INFERIOR_Preparados.mp4",
-            "url": "https://drive.google.com/file/d/1chNumvzwGapWYTqNkUoVyQ0a-Gk39WuO/preview"
-          },
-          {
-            "nombre": "8_2_b - TOPOGRAFIA MIEMBRO INFERIOR_Preparados.mp4",
-            "url": "https://drive.google.com/file/d/1FLfyBI7JcOZveXsYu-UZRUJQFtiio0Ky/preview"
-          }
-        ]
-      }
+  {
+    "tp": 1,
+    "titulo": "Introducción a la Anatomía - osteología MS",
+    "materiales": {
+      "teoricos": [
+        {
+          "nombre": "1 - Introducción Anatomía",
+          "url": "https://drive.google.com/open?id=1aqvJWfofh4ZQhz5BH-BtxHclvDlpLI8x"
+        }
+      ],
+      "practicos": [
+        {
+          "nombre": "1 - ORIENTACION PARA EL 1° PRACTICO.mp4",
+          "url": "https://drive.google.com/open?id=1JQaLgmwzv9mdS8V1vNkJV05zDlExH2aa"
+        }
+      ],
+      "preparados": []
     }
-  ]
+  },
+  {
+    "tp": 2,
+    "titulo": "Miembro Superior -  Artrología",
+    "materiales": {
+      "teoricos": [
+        {
+          "nombre": "2 - Introducción Artrología",
+          "url": "https://drive.google.com/open?id=11RFDoNh_HXhvSVvCb3XKXTcqP4dVVtKG"
+        }
+      ],
+      "practicos": [
+        {
+          "nombre": "2 - Segundo TP Miembro Superior.mp4",
+          "url": "https://drive.google.com/open?id=1Qgp3fvLwvkQtej_OAMNDzy1AiR_jYE19"
+        }
+      ],
+      "preparados": []
+    }
+  },
+  {
+    "tp": 3,
+    "titulo": "Miembro Superior - Miología",
+    "materiales": {
+      "teoricos": [
+        {
+          "nombre": "3 - Introducción Miología",
+          "url": "https://drive.google.com/open?id=11VBQ-J9IaEooSL56JVtx81HqyA60ELrI"
+        }
+      ],
+      "practicos": [
+        {
+          "nombre": "3 - Tercer TP Miembro Superior.mp4",
+          "url": "https://drive.google.com/open?id=1QHhOsO9zzUpFRRmVpLvUIvkCc_L6KsZS"
+        }
+      ],
+      "preparados": []
+    }
+  },
+  {
+    "tp": 4,
+    "titulo": "Miembro Superior - Angiología y Nervios",
+    "materiales": {
+      "teoricos": [
+        {
+          "nombre": "4 - Angiología",
+          "url": "https://drive.google.com/open?id=1kBOrBG-OhtmTnemF0jbHWVEIU_MrqDvE"
+        },
+        {
+          "nombre": "4 - Neurología",
+          "url": "https://drive.google.com/open?id=1FbjZvDRRdVvYVXcLBsr7R8ghozLgAX_r"
+        }
+      ],
+      "practicos": [
+        {
+          "nombre": "4 - ANGIOLOGIA DEL MIEMBRO SUPERIOR.mp4",
+          "url": "https://drive.google.com/open?id=1gdjHTJWxi71EaC-yc1sLKqEBdXgD8zTm"
+        },
+        {
+          "nombre": "4 - INERVACION MIEMBRO SUPERIOR.mp4",
+          "url": "https://drive.google.com/open?id=16frOzkgytRskvjX20-ps5C9bBI4Q4QGb"
+        }
+      ],
+      "preparados": []
+    }
+  },
+  {
+    "tp": 5,
+    "titulo": "Miembro Superior - Topografía",
+    "materiales": {
+      "teoricos": [
+        {
+          "nombre": "5 - Aponeurosis MS",
+          "url": "https://drive.google.com/open?id=1amXZXKRj_wRr_VbujjjnbIqY4DAQdkgH"
+        }
+      ],
+      "practicos": [
+        {
+          "nombre": "5 - TOPOGRAFIA DE MIEMBRO SUPERIOR.mp4",
+          "url": "https://drive.google.com/open?id=1jrAcZ1Zp9jT2rUhiAR4mCoa-ymVkYAo7"
+        }
+      ],
+      "preparados": []
+    }
+  },
+  {
+    "tp": 6,
+    "titulo": "Miembro Inferior - Osteología y Artrología",
+    "materiales": {
+      "teoricos": [
+        {
+          "nombre": "6 - Intro Osteo Artro Mi",
+          "url": "https://drive.google.com/open?id=1A_aPcBoKwdx8t88EJLsf1FoHsF0_D2ih"
+        }
+      ],
+      "practicos": [
+        {
+          "nombre": "6 - TP OSTEOLOGIA MIEMBRO INFERIOR.mp4",
+          "url": "https://drive.google.com/open?id=1GlLRmCD6h6NvkgRMY6J2ipXoK_XYexbZ"
+        },
+        {
+          "nombre": "6 - TP ARTROLOGIA MIEMBRO INFERIOR.mp4",
+          "url": "https://drive.google.com/open?id=1Fv3ZpCIM6NvZwCp7a0t1JKAVV-86j458"
+        }
+      ],
+      "preparados": [
+        {
+          "nombre": "6_2_b - TP ARTROLOGIA MIEMBRO INFERIOR_Preparados.mp4",
+          "url": "https://drive.google.com/open?id=1hSOMsUB-sUMeW6oT_qaiiCT4MIwiR93v"
+        }
+      ]
+    }
+  },
+  {
+    "tp": 7,
+    "titulo": "Miembro Inferior - Miología e Inervación",
+    "materiales": {
+      "teoricos": [
+        {
+          "nombre": "7 - Aponeurosis MI",
+          "url": "https://drive.google.com/open?id=1niRpvZERbm7TWqBxXE6fi_CwQsJ5fwsH"
+        },
+        {
+          "nombre": "7 - Neuro MI",
+          "url": "https://drive.google.com/open?id=1SctWGPOUVNa7mc3rFUkxlpQc8FhP0K9p"
+        }
+      ],
+      "practicos": [
+        {
+          "nombre": "7 - TP MIOLOGIA MIEMBRO INFERIOR.mp4",
+          "url": "https://drive.google.com/open?id=1a392J4yJKubdk2FWb5X9cRdHnhIa5kIP"
+        },
+        {
+          "nombre": "7 - TP INERVACION MIEMBRO INFERIOR.mp4",
+          "url": "https://drive.google.com/open?id=1V8ftDBbknWEWiqdf6RE-hM_TbG0OXyv_"
+        }
+      ],
+      "preparados": [
+        {
+          "nombre": "7_1_b - TP MIOLOGIA MIEMBRO INFERIOR_Preparados.mp4",
+          "url": "https://drive.google.com/open?id=1x1w5eiWf5cSjvH0Coxtra4I0bd3X2RK0"
+        },
+        {
+          "nombre": "7_2_b - TP INERVACION MIEMBRO INFERIOR_Preparados.mp4",
+          "url": "https://drive.google.com/open?id=15Nt2qMxlUA_j1o9UK7dBeIhOrVKKHqgK"
+        }
+      ]
+    }
+  },
+  {
+    "tp": 8,
+    "titulo": "Miembro Inferior - Angiología y Topografía",
+    "materiales": {
+      "teoricos": [
+        {
+          "nombre": "8 - Angiologia MI",
+          "url": "https://drive.google.com/open?id=18Ofy0qm_pbJXK146aH2BB7sBm2N70bCG"
+        }
+      ],
+      "practicos": [
+        {
+          "nombre": "8 - ANGIOLOGIA MIEMBRO INFERIOR.mp4",
+          "url": "https://drive.google.com/open?id=1jPF39RlVkKBV-h9LvBMLlP9K_A0Bkmnx"
+        },
+        {
+          "nombre": "8 - TOPOGRAFIA MIEMBRO INFERIOR.mp4",
+          "url": "https://drive.google.com/open?id=1f8pcoGb2Xt2M_HXdNeedm13rJIo-M1Ni"
+        }
+      ],
+      "preparados": [
+        {
+          "nombre": "8_1_b - TP ANGIOLOGIA MIEMBRO INFERIOR_Preparados.mp4",
+          "url": "https://drive.google.com/open?id=1chNumvzwGapWYTqNkUoVyQ0a-Gk39WuO"
+        },
+        {
+          "nombre": "8_2_b - TOPOGRAFIA MIEMBRO INFERIOR_Preparados.mp4",
+          "url": "https://drive.google.com/open?id=1FLfyBI7JcOZveXsYu-UZRUJQFtiio0Ky"
+        }
+      ]
+    }
+  }
+]
 }
