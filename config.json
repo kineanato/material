@@ -15,7 +15,7 @@
       "nombre": "MÓDULO I",
       "color": "#3498db",
       "fechas": "16/3 - 22/5",
-      "observaciones": "Clase inaugural 16-3 11:00 hs (remota sincrónica)",
+      "observaciones": "Clase inaugural 16-3 09:00 hs (remota sincrónica)",
       "semanas": [
         { "rango": "16/3 - 20/3", "tp": 1, "obs": "Clase inaugural 16-3" },
         { "rango": "23/3 - 27/3", "tp": 2, "obs": "Lunes 23 y martes 24/3 FERIADO" },
