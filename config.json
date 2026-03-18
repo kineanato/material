@@ -225,7 +225,7 @@
   "materiales": [
     {
       "tp": 1,
-      "titulo": "Introducción a la Anatomía",
+      "titulo": "Introducción a la Anatomía - osteología MS",
       "materiales": {
         "teoricos": [
           {
@@ -244,7 +244,7 @@
     },
     {
       "tp": 2,
-      "titulo": "Miembro Superior - Osteología y Artrología",
+      "titulo": "Miembro Superior -  Artrología",
       "materiales": {
         "teoricos": [
           {
