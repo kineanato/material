@@ -1,426 +1,939 @@
 {
-  "fechas": {
-    "tp1": "2026-03-16",
-    "tp2": "2026-03-16",
-    "tp3": "2026-03-30",
-    "tp4": "2026-04-06",
-    "tp5": "2026-04-13",
-    "tp6": "2026-04-20",
-    "tp7": "2026-04-27",
-    "tp8": "2026-05-04"
+  "asignatura": "ANATOMIA",
+  "carrera": "LICENCIATURA EN KINESIOLOGIA Y FISIATRIA",
+  "plan": "3508/93",
+  "ciclo_lectivo": "2026",
+  "duracion": "ANUAL",
+  "ubicacion": "PRIMER AÑO DE LA CARRERA",
+  "carga_horaria": {
+    "teoricas": 1,
+    "practicas": 4,
+    "total": 180
   },
-  "modulos": [
+  "cuerpo_docente": {
+    "encargado_ensenanza": 4,
+    "jefes_tp": 18,
+    "ayudantes_primeros": 6,
+    "ayudantes_segundos": "Escuela de disectores"
+  },
+  "introduccion": "La Kinesiología es una ciencia que capacita profesionales para integrar equipos de salud, en la tarea de prevención y tratamiento de diversas patologías...",
+  "objetivos_generales": [
+    "Emplear correctamente la terminología y el lenguaje anatómico.",
+    "Comprender la organización anatómica descriptiva y topográfica del ser humano.",
+    "Incorporar los conocimientos básicos que necesita el kinesiólogo para la comprensión de la fisiología, patología y terapéuticas kinefisiátricas.",
+    "Valorar la importancia del conocimiento anatómico en la práctica kinefisiátrica."
+  ],
+  "objetivos_especificos": {
+    "sistema_locomotor": [
+      "Identificar las diversas estructuras anatómicas que forman parte de los huesos, articulaciones y músculos.",
+      "Describir las características particulares de las piezas óseas, articulares y musculares.",
+      "Reconocer las inserciones precisas de los músculos, ligamentos y otras estructuras articulares.",
+      "Relacionar las diversas estructuras entre si.",
+      "Abordar los fundamentos de la anatomía funcional.",
+      "Organizar toda esta información según los criterios sistemáticos y regionales.",
+      "Reconocer los elementos vasculonerviosos propios de cada región anatómica.",
+      "Describir en el cadáver el trayecto y las relaciones de los elementos vasculonerviosos.",
+      "Aplicar todos estos conocimientos en los recursos que ofrece el diagnóstico por imágenes.",
+      "Extrapolar esta información al campo de la anatomia topográfica, proyectiva y palpatoria."
+    ],
+    "esplacnologia": [
+      "Reconocer en el cadáver las estructuras anatómicas que constituyen los sistemas digestivo, respiratorio, circulatorio, genito-urinario y endocrino.",
+      "Identificar las diferentes partes de cada sistema.",
+      "Describir la forma, situación y relaciones de cada órgano.",
+      "Reconocer las vías conductoras vasculonerviosas pertenecientes a cada sistema.",
+      "Comprender las vinculaciones que existen entre órganos de diferentes sistemas.",
+      "Aplicar estos conocimientos a través de los recursos que ofrece el diagnóstico por imágenes.",
+      "Valorar esta información en relación con la anatomía topográfica, proyectiva y palpatoria."
+    ],
+    "neuroanatomia": [
+      "Describir los componentes del tejido nervioso y su origen ontogénico.",
+      "Conocer el desarrollo embrionario del sistema nervioso para el análisis y la comprensión de las distintas partes que lo constituyen.",
+      "Identificar las estructuras macroscópicas que forman el sistema nervioso central y sus cubiertas protectoras.",
+      "Describir los elementos microscópicos de cada uno de los sectores que lo integran.",
+      "Relacionar los elementos de la microscopía y la macroscopía del sistema nervioso.",
+      "Conocer la vascularización arterial y venosa del sistema nervioso central.",
+      "Conocer la organización macroscópica y microscópica de los órganos de los sentidos.",
+      "Establecer las conexiones entre las diferentes estructuras neurales y las zonas de inervación.",
+      "Integrar funcionalmente el conocimiento del sistema nervioso central."
+    ]
+  },
+  "programa_analitico": [
     {
-      "id": 1,
-      "nombre": "MÓDULO I",
-      "color": "#3498db",
-      "fechas": "16/3 - 22/5",
-      "observaciones": "Clase inaugural 16-3 09:00 hs (remota sincrónica)",
-      "semanas": [
-        {
-          "rango": "16/3 - 20/3",
-          "tp": 1,
-          "obs": "Clase inaugural 16-3"
-        },
-        {
-          "rango": "23/3 - 27/3",
-          "tp": 2,
-          "obs": "Lunes 23 y martes 24/3 FERIADO"
-        },
-        {
-          "rango": "30/3 - 3/4",
-          "tp": 2,
-          "obs": "Miércoles 1/4 NO HAY CLASES. Jueves 2 y viernes 3/4 FERIADO"
-        },
-        {
-          "rango": "6/4 - 10/4",
-          "tp": 3
-        },
-        {
-          "rango": "13/4 - 17/4",
-          "tp": 4
-        },
-        {
-          "rango": "20/4 - 24/4",
-          "tp": 5
-        },
-        {
-          "rango": "27/4 - 1/5",
-          "tp": 6,
-          "obs": "1/5 FERIADO - Recuperar en otra comisión"
-        },
-        {
-          "rango": "4/5 - 8/5",
-          "tp": 7
-        },
-        {
-          "rango": "11/5 - 15/5",
-          "tp": 8
-        },
-        {
-          "rango": "18/5 - 22/5",
-          "tp": 9
-        }
-      ],
-      "parciales": [
-        {
-          "tipo": "I PARCIAL TEÓRICO",
-          "fecha": "SÁBADO 23/5"
-        },
-        {
-          "tipo": "I PARCIAL PRÁCTICO",
-          "fecha": "26/5 - 29/5",
-          "obs": "LUNES 25/5 FERIADO"
-        }
+      "bolilla": 1,
+      "titulo": "Introducción al estudio de la Anatomía Humana",
+      "contenidos": [
+        "Definición y divisiones de la Anatomía.",
+        "Nomenclatura, lenguaje y terminología anatómica.",
+        "Principales divisiones del cuerpo humano.",
+        "Posición anatómica convencional. Planos y ejes del cuerpo.",
+        "Términos de situación, posición y dirección.",
+        "Plan general de la organización morfológica del cuerpo humano.",
+        "Órganos, sistemas y aparatos."
       ]
     },
     {
-      "id": 2,
-      "nombre": "MÓDULO II",
-      "color": "#e67e22",
-      "fechas": "1/6 - 15/8",
-      "observaciones": "RECESO DE INVIERNO: 20/7 al 31/7",
-      "semanas": [
-        {
-          "rango": "1/6 - 5/6",
-          "tp": 10
-        },
-        {
-          "rango": "8/6 - 12/6",
-          "tp": 11,
-          "obs": "Recuperatorio 1er parcial (1ra opción)"
-        },
-        {
-          "rango": "15/6 - 19/6",
-          "tp": 12,
-          "obs": "15/6 FERIADO - Recuperar en otra comisión"
-        },
-        {
-          "rango": "22/6 - 26/6",
-          "tp": 13
-        },
-        {
-          "rango": "29/6 - 3/7",
-          "tp": 14
-        },
-        {
-          "rango": "6/7 - 10/7",
-          "tp": 15,
-          "obs": "9 y 10/7 FERIADO - Recuperar en otra comisión"
-        },
-        {
-          "rango": "13/7 - 17/7",
-          "tp": 16
-        },
-        {
-          "rango": "3/8 - 7/8",
-          "tp": 17
-        },
-        {
-          "rango": "10/8 - 14/8",
-          "tp": 18
-        }
-      ],
-      "parciales": [
-        {
-          "tipo": "II PARCIAL TEÓRICO",
-          "fecha": "SÁBADO 15/8"
-        },
-        {
-          "tipo": "II PARCIAL PRÁCTICO",
-          "fecha": "18/8 - 21/8",
-          "obs": "LUNES 17/8 FERIADO"
-        }
+      "bolilla": 2,
+      "titulo": "Osteología",
+      "contenidos": [
+        "Definición. Su división en esqueleto axil, esqueleto apendicular y esqueleto visceral.",
+        "Características generales de los huesos: Variedades de tejido óseo. Tipos de huesos: significación funcional. Morfología externa e interna de los huesos. Osificación, sus variedades.",
+        "Cartílago. Organización anatómica de los cartílagos esqueléticos. Sus variedades."
       ]
     },
     {
-      "id": 3,
-      "nombre": "MÓDULO III",
-      "color": "#27ae60",
-      "fechas": "24/8 - 30/11",
-      "semanas": [
-        {
-          "rango": "24/8 - 28/8",
-          "tp": 19
-        },
-        {
-          "rango": "31/8 - 4/9",
-          "tp": 20,
-          "obs": "Recuperatorio 2do parcial (1ra opción)"
-        },
-        {
-          "rango": "7/9 - 11/9",
-          "tp": 21
-        },
-        {
-          "rango": "14/9 - 18/9",
-          "obs": "SEMANA DE JORNADAS (NO HAY CLASES)"
-        },
-        {
-          "rango": "21/9 - 25/9",
-          "tp": 22
-        },
-        {
-          "rango": "28/9 - 2/10",
-          "tp": 23
-        },
-        {
-          "rango": "5/10 - 9/10",
-          "tp": 24
-        },
-        {
-          "rango": "12/10 - 16/10",
-          "tp": 25,
-          "obs": "12/10 FERIADO - Recuperar en otra comisión"
-        },
-        {
-          "rango": "19/10 - 23/10",
-          "tp": 26
-        },
-        {
-          "rango": "26/10 - 30/10",
-          "tp": 27
-        }
-      ],
-      "parciales": [
-        {
-          "tipo": "III PARCIAL TEÓRICO",
-          "fecha": "SÁBADO 31/10"
-        },
-        {
-          "tipo": "III PARCIAL PRÁCTICO",
-          "fecha": "2/11 - 6/11",
-          "obs": "LUNES 2/11 REVISIÓN NOTA 3"
-        },
-        {
-          "tipo": "REPASOS PRÁCTICOS",
-          "fecha": "9/11 - 13/11"
-        },
-        {
-          "tipo": "RECUPERATORIOS 3er parcial",
-          "fecha": "16/11 - 20/11"
-        },
-        {
-          "tipo": "RECUPERATORIOS",
-          "fecha": "24/11 - 27/11",
-          "obs": "24/11: 1er parcial (2da), 25/11: 2do parcial (2da), 26/11: 3er parcial (2da)"
-        }
-      ],
-      "finales": [
-        {
-          "fecha": "LUNES 30/11 13:00 hs",
-          "tipo": "PRIMERA FECHA"
-        },
-        {
-          "fecha": "MIÉRCOLES 9/12 08:00 hs",
-          "tipo": "SEGUNDA FECHA"
-        },
-        {
-          "fecha": "LUNES 14/12 13:00 hs",
-          "tipo": "TERCERA FECHA"
-        }
+      "bolilla": 3,
+      "titulo": "Artrología",
+      "contenidos": [
+        "Definición. Clasificaciones.",
+        "Tipos de articulaciones: fibrosas, cartilaginosas y sinoviales. Sus variedades y características.",
+        "Género de las diartrosis de acuerdo con la forma de las superficies articulares y los grados de libertad de movimiento."
+      ]
+    },
+    {
+      "bolilla": 4,
+      "titulo": "Miología",
+      "contenidos": [
+        "Definición. Clasificación: esquelético, visceral y cardíaco.",
+        "Características generales del músculo esquelético: organización anatómica, irrigación, inervación.",
+        "Estructuras accesorias: tendones, aponeurosis, correderas, vainas, bolsas sinoviales, fascias y tabiques intermusculares.",
+        "Clasificación de los músculos esqueléticos por la disposición de sus fibras.",
+        "Acción de los músculos. Origen e inserción."
+      ]
+    },
+    {
+      "bolilla": 5,
+      "titulo": "Cabeza y cuello: Sistema esquelético. Neurocráneo y Esplacnocráneo.",
+      "contenidos": [
+        "Cráneo: Osteología y artrología.",
+        "Cara: Osteología y artrología.",
+        "Cráneo: Base y bóveda.",
+        "Regiones comunes al cráneo y a la cara.",
+        "Articulación temporomandibular.",
+        "Anatomía Radiológica."
+      ]
+    },
+    {
+      "bolilla": 6,
+      "titulo": "Tronco: Sistema Osteoarticular. (Columna vertebral)",
+      "contenidos": [
+        "Vértebra tipo. Características generales.",
+        "Vértebras especiales. Características.",
+        "Columna vertebral en general. Dimensiones en el adulto. Incurvaciones. Configuración exterior.",
+        "Configuración interior. Conducto vertebral o raquídeo.",
+        "Articulaciones de la columna vertebral: intrínsecas y extrínsecas.",
+        "Anatomía Radiológica."
+      ]
+    },
+    {
+      "bolilla": 7,
+      "titulo": "Tronco: Sistema Osteoarticular. (Tórax)",
+      "contenidos": [
+        "Costillas y esternón.",
+        "Caracteres generales y propios de las costillas.",
+        "Cartilagos costales.",
+        "Tórax en general: superficie externa e interna, orificios superior e inferior.",
+        "Articulaciones del tórax.",
+        "Anatomía Radiológica."
+      ]
+    },
+    {
+      "bolilla": 8,
+      "titulo": "Cabeza y cuello: Miología, Angiología y Neurología.",
+      "contenidos": [
+        "Músculos de la mímica: su inserción, inervación y acción.",
+        "Músculos masticadores: su inserción, inervación y acción.",
+        "Músculos del cuello: su inserción, inervación y acción.",
+        "Elementos vasculonerviosos de la cabeza y cuello.",
+        "Anatomía de superficie, proyectiva y palpatoria de cabeza y cuello."
+      ]
+    },
+    {
+      "bolilla": 9,
+      "titulo": "Tronco: Músculos del Raquis.",
+      "contenidos": [
+        "Músculos de la región lumbodorsocervical: inserción, inervación y acción.",
+        "Músculos Psoasilíaco y Cuadrado Lumbar.",
+        "Fascias y aponeurosis de la región",
+        "Anatomía topográfica de la región lumbodorsocervical.",
+        "Anatomía de superficie, proyectiva y palpatoria."
+      ]
+    },
+    {
+      "bolilla": 10,
+      "titulo": "Tronco: Paredes anterolaterales del tórax y el abdomen.",
+      "contenidos": [
+        "Músculos del tórax: inserción, inervación y acción.",
+        "Músculo Diafragma.",
+        "Músculos del abdomen: inserción, inervación y acción.",
+        "Fascias y aponeurosis de la región.",
+        "Anatomía topográfica de las paredes anterolaterales del tórax y el abdomen.",
+        "Anatomía de superficie, proyectiva y palpatoria."
+      ]
+    },
+    {
+      "bolilla": 11,
+      "titulo": "Extremidad Superior: Sistema Osteoarticular.",
+      "contenidos": [
+        "Cintura Escapular: Omoplato y clavícula. Húmero, cúbito, radio, huesos del carpo, huesos del metacarpo y falanges.",
+        "Articulaciones de la Cintura Escapular: acromioclavicular, esternocostoclavicular, escapulotorácica. Unión coracoclavicular. Ligamentos propios de la escápula.",
+        "Articulaciones escapulohumeral, humeroantebraquial, radiocubitales superior e inferior, membrana interósea.",
+        "Articulaciones radiocarpianas, carpianas, carpometacarpianas, intermetacarpianas, metacarpofalángicas, interfalángicas.",
+        "Anatomía Radiológica"
+      ]
+    },
+    {
+      "bolilla": 12,
+      "titulo": "Extremidad Superior: Sistema Muscular.",
+      "contenidos": [
+        "Músculos de la Cintura Escapular.",
+        "Músculos del brazo: regiones anterior y posterior.",
+        "Músculos del antebrazo: regiones pronoflexora y supinoextensora.",
+        "Músculos de la mano: regiones tenar, hipotenar y media.",
+        "Compartimientos aponeuróticos, correderas y vainas de la extremidad superior."
+      ]
+    },
+    {
+      "bolilla": 13,
+      "titulo": "Extremidad Superior: Angiología y Neurología.",
+      "contenidos": [
+        "Origen, trayecto, relaciones y distribución de las arterias: axilar, humeral, cubital y radial.",
+        "Arcos vasculares de la mano: formación, relaciones y distribución.",
+        "Sistema venoso superficial y profundo.",
+        "Sistema linfático.",
+        "Plexo Braquial: constitución, ramas colaterales y terminales.",
+        "Ramas terminales del plexo braquial: trayecto, relaciones y distribución.",
+        "Anatomía topográfica, proyectiva y palpatoria."
+      ]
+    },
+    {
+      "bolilla": 14,
+      "titulo": "Extremidad Inferior: Sistema Osteoarticular.",
+      "contenidos": [
+        "Cintura Pelviana. Coxal, fémur, rótula, tibia, peroné, huesos del tarso, huesos del metatarso y falanges.",
+        "Articulaciones de la Cintura Pelviana: sacroilíaca, sínfisis púbica. Ligamentos propios de la pelvis.",
+        "Pelvis en general: conformación y dimensiones.",
+        "Articulaciones coxofemoral, femorotibial, femororrotuliana, tibiopéroneas superior e inferior, sindesmosis tibiopéronea.",
+        "Articulación tibioporenoastragalina, tarsianas, tarsometatarsianas, intermetatarsianas, metatarsofalángicas, interfalángicas.",
+        "Anatomía Radiológica."
+      ]
+    },
+    {
+      "bolilla": 15,
+      "titulo": "Extremidad Inferior: Sistema Muscular.",
+      "contenidos": [
+        "Músculos de la pelvis: región glútea: plano superficial, medio y posterior.",
+        "Músculos del muslo: regiones anterior, interna y posterior.",
+        "Músculos de la pierna: región anterior, externa y posterior.",
+        "Músculos del pie: región dorsal, regiones plantares.",
+        "Compartimientos aponeuróticos, correderas y vainas sinoviales de la extremidad inferior."
+      ]
+    },
+    {
+      "bolilla": 16,
+      "titulo": "Extremidad Inferior: Angiología y Neurología.",
+      "contenidos": [
+        "Origen, trayecto, relaciones y distribución de las arterias: ilíaca interna (ramas extrapélvicas), ilíaca externa, femoral, poplítea, tibial anterior, tronco tibiopéroneo, tibial posterior, peronea, pedia, plantares externa e interna.",
+        "Arcos vasculares del pie: formación, trayecto, relaciones y distribución.",
+        "Sistema venoso superficial y profundo.",
+        "Sistema linfático.",
+        "Plexo Lumbar: constitución y ramas terminales.",
+        "Ramas terminales del plexo lumbar, trayecto, relaciones y distribución.",
+        "Plexo Sacro: constitución, ramas colaterales, y terminales.",
+        "Ramas terminales del plexo sacro, trayecto, relaciones y distribución.",
+        "Anatomía topográfica proyectiva y palpatoria."
+      ]
+    },
+    {
+      "bolilla": 17,
+      "titulo": "Esplanología. Sistema Fono-Respiratorio.",
+      "contenidos": [
+        "Fosas nasales, cavidades paranasales, faringe, laringe, traquea y bronquios: Situación y relaciones.",
+        "Pulmones y pleura: Situación y relaciones.",
+        "Segmentación broncopulmonar. Concepto de segmento broncopulmonar.",
+        "Vascularización e inervación del aparato fono-respiratorio.",
+        "Anatomía radiológica y proyectiva."
+      ]
+    },
+    {
+      "bolilla": 18,
+      "titulo": "Esplanología. Sistema Circulatorio.",
+      "contenidos": [
+        "Corazón: forma, situación y dimensiones.",
+        "Pedículo vascular del corazón.",
+        "Arteria Aorta: origen, trayecto, relaciones y distribución.",
+        "Venas: sistema de las venas Cavas y Pulmonares, origen, trayecto, relaciones y distribución.",
+        "Concepto de circulación mayor y menor.",
+        "Sistema linfático: concepto, vasos y ganglios linfáticos."
+      ]
+    },
+    {
+      "bolilla": 19,
+      "titulo": "Esplanología: Sistema digestivo.",
+      "contenidos": [
+        "Boca, lengua, dientes, glándulas salivales,: forma, situación, y relaciones.",
+        "Faringe, esófago, estómago, intestino delgado, intestino grueso: forma, situación y relaciones.",
+        "Glándulas anexas al tubo digestivo: hígado y páncreas; forma, situación y relaciones.",
+        "Bazo, concepto funcional, forma, situación y relaciones.",
+        "Peritoneo: generalidades, fascias, ligamentos, mesos y epiplones.",
+        "Vascularización e inervación del aparato digestivo.",
+        "Anatomía proyectiva, palapatoria y radiológica."
+      ]
+    },
+    {
+      "bolilla": 20,
+      "titulo": "Esplanología. Sistemas urinario, genital y endócrino.",
+      "contenidos": [
+        "Sistema Urinario: Riñón, cálices, pelvis, uréter, vejiga y uretra: forma, situación, relaciones, irrigación e inervación.",
+        "Aparato Genital Masculino: Testículo, epidídimo, conducto deferente, glándulas anexas (próstata y vesículas seminales), pene: forma, situación, irrigación e inervación.",
+        "Aparato Genital Femenino: Ovario, trompa uterina u oviducto, útero, vagina y vulva: forma, situación, relaciones, irrigación e inervación.",
+        "Periné: constitución y diferencias entre ambos sexos.",
+        "Sistema Endócrino: Concepto. Hipófisis, tiroides, paratiroides, suprarrenales, páncreas, testículo y ovario: forma, situación, relaciones, inervación e irrigación."
+      ]
+    },
+    {
+      "bolilla": 21,
+      "titulo": "Neuroanatomía. Generalidades.",
+      "contenidos": [
+        "Tejido Nervioso: tipos celulares, sinapsis, receptores.",
+        "Desarrollo embriológico del tubo neural.",
+        "Divisiones del Sistema Nervioso: Central, periférico y autónomo."
+      ]
+    },
+    {
+      "bolilla": 22,
+      "titulo": "Neuroanatomía. Médula y Tallo Encefálico.",
+      "contenidos": [
+        "Médula: anatomía macroscópica. Sistematización y laminación. Constitución de un nervio raquídeo. Concepto de neurodermatoma.",
+        "Tallo Encefálico: anatomía macroscópica. IV Ventrículo. Sistematización del bulbo, protuberancia y mesencefálo. Constitución de un nervio craneal.",
+        "Pares Craneales: origen real y aparente. Trayecto y distribución.",
+        "Meninges espinales.",
+        "Irrigación."
+      ]
+    },
+    {
+      "bolilla": 23,
+      "titulo": "Neuroanatomía. Cerebelo y cerebro.",
+      "contenidos": [
+        "Cerebelo: anatomía macroscópica y microscópica.",
+        "División funcional del cerebelo y sus conexiones básicas.",
+        "Cerebro: anatomía macroscópica: configuración interna y externa.",
+        "Diencéfalo: divisiones.",
+        "Meninges encefálicas.",
+        "Irrigación."
+      ]
+    },
+    {
+      "bolilla": 24,
+      "titulo": "Neuroanatomía. Vías de conducción y Órganos de los Sentidos.",
+      "contenidos": [
+        "Vías Sensitivas: origen, trayecto y finalización.",
+        "Vías Motoras: origen, trayecto y finalización.",
+        "Órganos de los Sentidos: Ojo y oído.",
+        "Vías Sensoriales: óptica, gustativa, olfativa, auditiva y vestibular.",
+        "Sistema Nervioso Autónomo: Simpático y Parasimpático. Territorios. Vías de conducción neurovegetativas."
       ]
     }
   ],
-  "materiales": [
+  "trabajos_practicos": [
     {
-      "tp": 1,
-      "titulo": "Introducción a la Anatomía - osteología MS",
-      "materiales": {
-        "teoricos": [
-          {
-            "nombre": "1 - Introducción Anatomía",
-            "url": "https://drive.google.com/open?id=1aqvJWfofh4ZQhz5BH-BtxHclvDlpLI8x"
-          }
-        ],
-        "practicos": [
-          {
-            "nombre": "1 - ORIENTACION PARA EL 1° PRACTICO.mp4",
-            "url": "https://drive.google.com/open?id=1JQaLgmwzv9mdS8V1vNkJV05zDlExH2aa"
-          }
-        ],
-        "preparados": []
-      }
+      "modulo": "I",
+      "numero": 1,
+      "titulo": "Osteología de Miembro Superior",
+      "objetivos_especificos": [
+        "Identificar y marcar los huesos y los accidentes óseos del carpo, metacarpo y falanges en la mano articulada."
+      ],
+      "contenidos": [
+        "Cintura escapular: escápula y clavícula. Húmero, cúbito, radio. huesos del carpo, metacarpo y falanges."
+      ],
+      "orientacion_teorica": "Posición anatómica. Ejes y planos del cuerpo. Direcciones en el espacio. Nomenclatura y lenguaje anatómico. Huesos: definición y clasificación. El esqueleto y su división",
+      "teoricos": [{"title":"Introducción a la Anatomía", "url":"https://drive.google.com/file/d/1aqvJWfofh4ZQhz5BH-BtxHclvDlpLI8x/view?usp=drive_link"}],
+      "practicos": [{"title":"Orientación para Osteología de Miembro Superior", "url":"https://drive.google.com/file/d/1JQaLgmwzv9mdS8V1vNkJV05zDlExH2aa/view?usp=drive_link"}],
+      "preparados": []
     },
     {
-      "tp": 2,
-      "titulo": "Miembro Superior -  Artrología",
-      "materiales": {
-        "teoricos": [
-          {
-            "nombre": "2 - Introducción Artrología",
-            "url": "https://drive.google.com/open?id=11RFDoNh_HXhvSVvCb3XKXTcqP4dVVtKG"
-          }
-        ],
-        "practicos": [
-          {
-            "nombre": "2 - Segundo TP Miembro Superior.mp4",
-            "url": "https://drive.google.com/open?id=1Qgp3fvLwvkQtej_OAMNDzy1AiR_jYE19"
-          }
-        ],
-        "preparados": []
-      }
+      "modulo": "I",
+      "numero": 2,
+      "titulo": "Artrología de Miembro Superior",
+      "objetivos_especificos": [],
+      "contenidos": [
+        "Articulación esterno-costo-clavicular o esterno-clavicular. Ligamentos coracoclaviculares. Ligamentos propios de la escápula. Art. acromioclavicular. Art. escápulotorácica. Art. escápulohumeral. Bolsas serosas. Art. húmeroantebraquial o del codo. Art. radiocubitales: superior, inferior y membrana interósea. Art. radiocarpiana. Art. intercarpianas, carpometacarpianas e intermetacarpianas; metacarpofalángicas e interfalángicas. Ligamentos palmares dorsales e interóseos"
+      ],
+      "orientacion_teorica": "Articulaciones: definición y clasificaciones. Nociones de mecánica articular. Nomenclatura de los movimientos.",
+      "teoricos": [{"title":"Introducción a la Artrología", "url":"https://drive.google.com/file/d/11RFDoNh_HXhvSVvCb3XKXTcqP4dVVtKG/view?usp=drive_link"}],
+      "practicos": [{"title":"Orientación para Artrología de Miembro Superior", "url":"https://drive.google.com/file/d/1Qgp3fvLwvkQtej_OAMNDzy1AiR_jYE19/view?usp=drive_link"}],
+      "preparados": []
     },
     {
-      "tp": 3,
-      "titulo": "Miembro Superior - Miología",
-      "materiales": {
-        "teoricos": [
-          {
-            "nombre": "3 - Introducción Miología",
-            "url": "https://drive.google.com/open?id=11VBQ-J9IaEooSL56JVtx81HqyA60ELrI"
-          }
-        ],
-        "practicos": [
-          {
-            "nombre": "3 - Tercer TP Miembro Superior.mp4",
-            "url": "https://drive.google.com/open?id=1QHhOsO9zzUpFRRmVpLvUIvkCc_L6KsZS"
-          }
-        ],
-        "preparados": []
-      }
+      "modulo": "I",
+      "numero": 3,
+      "titulo": "Miologia de Miembro Superior",
+      "objetivos_especificos": [
+        "Marcar, en los músculos que unen el miembro superior con el tronco, únicamente las inserciones en el primero"
+      ],
+      "contenidos": [
+        "Músculos que unen el miembro superior al tronco: pectorales mayor y menor, subclavio, serrato mayor, trapecio, dorsal ancho, angular del omóplato, omohioideo, romboides mayor y menor.",
+        "Músculos del hombro o escapulares: supraespinoso, infraespinoso, redondo mayor y menor, subescapular, deltoides.",
+        "Músculos del brazo: bíceps braquial, coracobraquial, braquial anterior, tríceps braquial.",
+        "Músculos del antebrazo: palmar mayor y menor, pronador redondo, cubital anterior, flexor común superficial de los dedos, flexor común profundo de los dedos, flexor propio del pulgar, pronador cuadrado, supinador largo, primer radial externo, segundo radial, supinador corto, extensor común de los dedos, extensor propio del meñique, cubital posterior, ancóneo, abeductor largo del pulgar, extensor corto y largo del pulgar y extensor propio del índice.",
+        "Músculos de la mano: abeductor corto del pulgar, flexor corto del pulgar, oponente y aductor del pulgar, palmar cutáneo, flexor corto del meñique, oponente y aductor del meñique, lumbricales e interóseos."
+      ],
+      "orientacion_teorica": "Músculos: definición y clasificación. Anexos (fascias, aponeurosis, vainas sinoviales y tendones). Reconocimiento de planos cutáneo, subcutáneo, aponeurótico, sub-aponeurótico y muscular. Fascias, aponeurosis y vainas sinoviales de miembro superior.",
+      "teoricos": [{"title":"Introducción a la Miología", "url":"https://drive.google.com/file/d/11VBQ-J9IaEooSL56JVtx81HqyA60ELrI/view?usp=drive_link"},{"title":"Aponeurosis del miembro superior", "url":"https://drive.google.com/file/d/1amXZXKRj_wRr_VbujjjnbIqY4DAQdkgH/view?usp=drive_link"}],
+      "practicos": [{"title":"Orientación para Miologia de Miembro Superior","url":"https://drive.google.com/file/d/1QHhOsO9zzUpFRRmVpLvUIvkCc_L6KsZS/view?usp=drive_link"}],
+      "preparados": []
     },
     {
-      "tp": 4,
-      "titulo": "Miembro Superior - Angiología y Nervios",
-      "materiales": {
-        "teoricos": [
-          {
-            "nombre": "4 - Angiología",
-            "url": "https://drive.google.com/open?id=1kBOrBG-OhtmTnemF0jbHWVEIU_MrqDvE"
-          },
-          {
-            "nombre": "4 - Neurología",
-            "url": "https://drive.google.com/open?id=1FbjZvDRRdVvYVXcLBsr7R8ghozLgAX_r"
-          }
+      "modulo": "I",
+      "numero": 4,
+      "titulo": "Neurología y Angiologia de Miembro Superior",
+      "objetivos_especificos": [],
+      "contenidos": {
+        "neurologia": [
+          "Plexo braquial, troncos y ramas. Nervios mediano, cubital, radial, circunflejo o axilar, braquial cutáneo interno y accesorio, musculocutáneo. Ramas colaterales y terminales."
         ],
-        "practicos": [
-          {
-            "nombre": "4 - ANGIOLOGIA DEL MIEMBRO SUPERIOR.mp4",
-            "url": "https://drive.google.com/open?id=1gdjHTJWxi71EaC-yc1sLKqEBdXgD8zTm"
-          },
-          {
-            "nombre": "4 - INERVACION MIEMBRO SUPERIOR.mp4",
-            "url": "https://drive.google.com/open?id=16frOzkgytRskvjX20-ps5C9bBI4Q4QGb"
-          }
-        ],
-        "preparados": []
-      }
-    },
-    {
-      "tp": 5,
-      "titulo": "Miembro Superior - Topografía",
-      "materiales": {
-        "teoricos": [
-          {
-            "nombre": "5 - Aponeurosis MS",
-            "url": "https://drive.google.com/open?id=1amXZXKRj_wRr_VbujjjnbIqY4DAQdkgH"
-          }
-        ],
-        "practicos": [
-          {
-            "nombre": "5 - TOPOGRAFIA DE MIEMBRO SUPERIOR.mp4",
-            "url": "https://drive.google.com/open?id=1jrAcZ1Zp9jT2rUhiAR4mCoa-ymVkYAo7"
-          }
-        ],
-        "preparados": []
-      }
-    },
-    {
-      "tp": 6,
-      "titulo": "Miembro Inferior - Osteología y Artrología",
-      "materiales": {
-        "teoricos": [
-          {
-            "nombre": "6 - Intro Osteo Artro Mi",
-            "url": "https://drive.google.com/open?id=1A_aPcBoKwdx8t88EJLsf1FoHsF0_D2ih"
-          }
-        ],
-        "practicos": [
-          {
-            "nombre": "6 - TP OSTEOLOGIA MIEMBRO INFERIOR.mp4",
-            "url": "https://drive.google.com/open?id=1GlLRmCD6h6NvkgRMY6J2ipXoK_XYexbZ"
-          },
-          {
-            "nombre": "6 - TP ARTROLOGIA MIEMBRO INFERIOR.mp4",
-            "url": "https://drive.google.com/open?id=1Fv3ZpCIM6NvZwCp7a0t1JKAVV-86j458"
-          }
-        ],
-        "preparados": [
-          {
-            "nombre": "6_2_b - TP ARTROLOGIA MIEMBRO INFERIOR_Preparados.mp4",
-            "url": "https://drive.google.com/open?id=1hSOMsUB-sUMeW6oT_qaiiCT4MIwiR93v"
-          }
+        "angiologia": [
+          "Arteria axilar, humeral, radial y cubital: ramas colaterales y terminales. Círculos arteriales periarticulares del hombro y del codo. Arcos vasculares de la mano. Venas superficiales y profundas. Grupos ganglionares linfáticos del miembro superior."
         ]
-      }
+      },
+      "orientacion_teorica": "Introducción al estudio de sistema nervioso periférico. Organización anatomo-funcional del sistema circulatorio. Introducción al estudio del sistema linfático",
+      "teoricos": [{"title":"Introducción a la Neurología", "url":"https://drive.google.com/file/d/1FbjZvDRRdVvYVXcLBsr7R8ghozLgAX_r/view?usp=drive_link"}, {"title":"Introducción a la Angiología", "url":"https://drive.google.com/file/d/1kBOrBG-OhtmTnemF0jbHWVEIU_MrqDvE/view?usp=drive_link"}],
+      "practicos": [{"title":"Orientación para Angiología de Miembro Superior", "url":"https://drive.google.com/file/d/1gdjHTJWxi71EaC-yc1sLKqEBdXgD8zTm/view?usp=drive_link"},{"title":"Orientación para Neurología de Miembro Superior", "url":"https://drive.google.com/file/d/16frOzkgytRskvjX20-ps5C9bBI4Q4QGb/view?usp=drive_link"}],
+      "preparados": []
     },
     {
-      "tp": 7,
-      "titulo": "Miembro Inferior - Miología e Inervación",
-      "materiales": {
-        "teoricos": [
-          {
-            "nombre": "7 - Aponeurosis MI",
-            "url": "https://drive.google.com/open?id=1niRpvZERbm7TWqBxXE6fi_CwQsJ5fwsH"
-          },
-          {
-            "nombre": "7 - Neuro MI",
-            "url": "https://drive.google.com/open?id=1SctWGPOUVNa7mc3rFUkxlpQc8FhP0K9p"
-          }
-        ],
-        "practicos": [
-          {
-            "nombre": "7 - TP MIOLOGIA MIEMBRO INFERIOR.mp4",
-            "url": "https://drive.google.com/open?id=1a392J4yJKubdk2FWb5X9cRdHnhIa5kIP"
-          },
-          {
-            "nombre": "7 - TP INERVACION MIEMBRO INFERIOR.mp4",
-            "url": "https://drive.google.com/open?id=1V8ftDBbknWEWiqdf6RE-hM_TbG0OXyv_"
-          }
-        ],
-        "preparados": [
-          {
-            "nombre": "7_1_b - TP MIOLOGIA MIEMBRO INFERIOR_Preparados.mp4",
-            "url": "https://drive.google.com/open?id=1x1w5eiWf5cSjvH0Coxtra4I0bd3X2RK0"
-          },
-          {
-            "nombre": "7_2_b - TP INERVACION MIEMBRO INFERIOR_Preparados.mp4",
-            "url": "https://drive.google.com/open?id=15Nt2qMxlUA_j1o9UK7dBeIhOrVKKHqgK"
-          }
-        ]
-      }
+      "modulo": "I",
+      "numero": 5,
+      "titulo": "Topografía de Miembro Superior, Integración, Repaso.",
+      "objetivos_especificos": [],
+      "contenidos": [
+        "Axila. Triángulo humerotricipital, omotricipital, cuadrilátero humerotricipital. Corredera bicipital. Canal de torsión. Regiones ventral y dorsal de codo: canales bicipitales interno y externo, canal epitrócleo-olecraneano. Regiones ventral y dorsal de muñeca: túnel carpiano, canal del cubital, correderas osteofibrosas dorsales, tabaquera anatómica, canal del pulso. Región palmar y dorsal de la mano."
+      ],
+      "orientacion_teorica": "",
+      "teoricos": [],
+      "practicos": [{"title":"Orientación para Topografía de Miembro Superior", "url":"https://drive.google.com/file/d/1jrAcZ1Zp9jT2rUhiAR4mCoa-ymVkYAo7/view?usp=drive_link"}],
+      "preparados": []
     },
     {
-      "tp": 8,
-      "titulo": "Miembro Inferior - Angiología y Topografía",
-      "materiales": {
-        "teoricos": [
-          {
-            "nombre": "8 - Angiologia MI",
-            "url": "https://drive.google.com/open?id=18Ofy0qm_pbJXK146aH2BB7sBm2N70bCG"
-          }
+      "modulo": "I",
+      "numero": 6,
+      "titulo": "Osteología y Artrología de Miembro Inferior.",
+      "objetivos_especificos": [
+        "Reconocer las estructuras que conforman la pelvis en general (límites y división).",
+        "Identificar y marcar los accidentes óseos de los huesos que componen la fila anterior del tarso, el metatarso y las falanges en el pie articulado."
+      ],
+      "contenidos": {
+        "osteologia": [
+          "Cintura pelviana: coxal, sacro y cóccix. Fémur, rótula, tibia y peroné, tarso, metatarso y falanges."
         ],
-        "practicos": [
-          {
-            "nombre": "8 - ANGIOLOGIA MIEMBRO INFERIOR.mp4",
-            "url": "https://drive.google.com/open?id=1jPF39RlVkKBV-h9LvBMLlP9K_A0Bkmnx"
-          },
-          {
-            "nombre": "8 - TOPOGRAFIA MIEMBRO INFERIOR.mp4",
-            "url": "https://drive.google.com/open?id=1f8pcoGb2Xt2M_HXdNeedm13rJIo-M1Ni"
-          }
-        ],
-        "preparados": [
-          {
-            "nombre": "8_1_b - TP ANGIOLOGIA MIEMBRO INFERIOR_Preparados.mp4",
-            "url": "https://drive.google.com/open?id=1chNumvzwGapWYTqNkUoVyQ0a-Gk39WuO"
-          },
-          {
-            "nombre": "8_2_b - TOPOGRAFIA MIEMBRO INFERIOR_Preparados.mp4",
-            "url": "https://drive.google.com/open?id=1FLfyBI7JcOZveXsYu-UZRUJQFtiio0Ky"
-          }
+        "artrologia": [
+          "Pelvis en general. Art. sacrococcígea, sacroilíaca, sínfisis púbica, lig. sacrocíáticos mayor y menor, membrana obturatriz. Art. coxofemoral o de la cadera, femorotibial y femoropatelar o de la rodilla, tibioperóneas superior, inferior. Membrana interósea. Art. tibioperóneo-astragalina o tibiotarsiana. Art. intertarsianas, subastragalina y mediotarsiana. Art. tarsometatarsianas e intermetatarsianas. Art. metatarsofalángicas e interfalángicas."
         ]
-      }
+      },
+      "orientacion_teorica": "",
+      "teoricos": [{"title":"Ostología y Artrología de miembro inferior","url":"https://drive.google.com/file/d/1A_aPcBoKwdx8t88EJLsf1FoHsF0_D2ih/view?usp=drive_link"}],
+      "practicos": [{"title":"Orientación para Oeteología de Miembro Inferior", "url":"https://drive.google.com/file/d/1GlLRmCD6h6NvkgRMY6J2ipXoK_XYexbZ/view?usp=drive_link"},{"title":"Orientación para Artrología de Miembro Inferior", "url":"https://drive.google.com/file/d/1Fv3ZpCIM6NvZwCp7a0t1JKAVV-86j458/view?usp=drive_link"}],
+      "preparados": [{"title":"Preparados de Artrología de Miembro Inferior","url":"https://drive.google.com/file/d/1hSOMsUB-sUMeW6oT_qaiiCT4MIwiR93v/view?usp=drive_link"}]
+    },
+    {
+      "modulo": "I",
+      "numero": 7,
+      "titulo": "Miologia y Neurología de Miembro Inferior.",
+      "objetivos_especificos": [],
+      "contenidos": {
+        "miologia": [
+          "Músculos del muslo: región anterior: tensor de la fascia lata, sartorio, recto anterior, vasto interno y externo, crural. Región interna: pectíneo, aductor mediano, aductor menor y recto interno. Región posterior: bíceps femoral, semitendinoso y semimembranoso.",
+          "Músculos de la pierna: región anterior: tibial anterior, extensor común de los dedos, extensor propio del primer dedo, peroneo anterior. Región externa: peroneos lateral largo y corto. Región posterior: plano superficial: gemelos, sóleo y plantar delgado; plano profundo: poplíteo, flexor largo común de los dedos, tibial posterior y flexor largo del primer dedo.",
+          "Músculos del pie: región dorsal: pedio. Región plantar: 1° capa: aductor del primer dedo, flexor corto plantar, aductor del quinto dedo. 2° capa: flexor accesorio y lumbricales. 3° capa: flexor corto del primer dedo, aductor del primer dedo, flexor corto del quinto dedo. 4° capa: interóseos plantares y dorsales."
+        ],
+        "neurologia": [
+          "Plexo lumbar: nervios: abdómino genital mayor, abdómino genital menor, genitocrural, femorocutáneo, crural y obturador.",
+          "Plexo sacro: nervios: glúteo superior, glúteo inferior, ciático mayor o isquiático, tronco del ciático menor, safeno externo, musculocutáneo, tibial anterior, plantares."
+        ]
+      },
+      "orientacion_teorica": "Aponeurosis glútea, fascia lata, aponeurosis de la pierna, retináculos y vainas sinoviales del miembro inferior.",
+      "teoricos": [{"title":"Aponeurosis del miembro inferior", "url":"https://drive.google.com/file/d/1niRpvZERbm7TWqBxXE6fi_CwQsJ5fwsH/view?usp=drive_link"}, {"title":"Neurología del miembro inferior ","url":"https://drive.google.com/file/d/1SctWGPOUVNa7mc3rFUkxlpQc8FhP0K9p/view?usp=drive_link"}],
+      "practicos": [{"title":"Orientación para Miologia de Miembro Inferior","url":"https://drive.google.com/file/d/1a392J4yJKubdk2FWb5X9cRdHnhIa5kIP/view?usp=drive_link"},{"title":"Orientación para Neurología de Miembro Inferior", "url":"https://drive.google.com/file/d/1V8ftDBbknWEWiqdf6RE-hM_TbG0OXyv_/view?usp=drive_link"}],
+      "preparados": [{"title":"Preparados de Miología Miembro Inferior","url":"https://drive.google.com/file/d/1JDUovr6JZkQFBajyPZ22FHp5uhNK6mwe/view?usp=drive_link"}, {"title":"Preparados de Inervación de Miembro Inferior", "url":"https://drive.google.com/file/d/15Nt2qMxlUA_j1o9UK7dBeIhOrVKKHqgK/view?usp=drive_link"}]
+    },
+    {
+      "modulo": "I",
+      "numero": 8,
+      "titulo": "Angiología y Topografía de Miembro Inferior.",
+      "objetivos_especificos": [],
+      "contenidos": {
+        "angiologia": [
+          "Arterias: femoral, poplítea, tibial anterior, pedia, tronco tibioperóneo, tibial posterior, peronea, plantares externa e interna. Venas superficiales y profundas. Linfáticos del miembro inferior."
+        ],
+        "topografia": [
+          "Triángulo de Scarpa, conducto de Hunter. Canal bicipital interno y externo. Canal del pulso. Túnel del tarso. Región plantar."
+        ]
+      },
+      "orientacion_teorica": "",
+      "teoricos": [{"title":"Angiología de miembro inferior","url":"https://drive.google.com/file/d/18Ofy0qm_pbJXK146aH2BB7sBm2N70bCG/view?usp=drive_link"}],
+      "practicos": [{"title":"Orientación para Angiología de Miembro Inferior", "url":"https://drive.google.com/file/d/1jPF39RlVkKBV-h9LvBMLlP9K_A0Bkmnx/view?usp=drive_link"},{"title":"Orientación para Topografía de Miembro Inferior", "url":"https://drive.google.com/file/d/1f8pcoGb2Xt2M_HXdNeedm13rJIo-M1Ni/view?usp=drive_link"}],
+      "preparados": [{"title":"Preparados de Angiología de Miembro Inferior", "url":"https://drive.google.com/file/d/1chNumvzwGapWYTqNkUoVyQ0a-Gk39WuO/view?usp=drive_link"},{"title":"Preparados de Topografía de Miembro Inferior", "url":"https://drive.google.com/file/d/1FLfyBI7JcOZveXsYu-UZRUJQFtiio0Ky/view?usp=drive_link"}]
+    },
+    {
+      "modulo": "I",
+      "numero": 9,
+      "titulo": "Integración y Repaso de Miembro Inferior.",
+      "objetivos_especificos": [],
+      "contenidos": [],
+      "orientacion_teorica": "",
+      "teoricos": [],
+      "practicos": [],
+      "preparados": []
+    },
+    {
+      "modulo": "II",
+      "numero": 10,
+      "titulo": "Cabeza",
+      "objetivos_especificos": [
+        "Identificar los huesos que componen el cráneo y la cara articulados.",
+        "Marcar los accidentes óseos del endocráneo y excoráneo articulado y las estructuras que con aquellos se relacionan.",
+        "Señalar la constitución del continente y el contenido de las fosas comunes al cráneo y la cara.",
+        "Reconocer los órganos glandulares y sus conductos excretores, que se sitúan en la cara.",
+        "Reconocer y marcar los músculos cutáneos de la cara y describir su acción."
+      ],
+      "contenidos": {
+        "osteologia": [
+          "Cráneo o neurocráneo: frontal, parietal, temporal, occipital, etmoides y esfenoides. Configuración interna y externa.",
+          "Cara o esplacnocráneo: maxilar superior, palatino, unguis, cornete inferior, nasales, malar, vomer, mandíbula o maxilar inferior. Cavidades orbitarias, fosas nasales, fosa cigomática y su transfondo o fosa pterigomaxilar, bóveda palatina, fosa pterigoidea, cavidades paranasales y sus comunicaciones."
+        ],
+        "artrologia": [
+          "Articulaciones de los huesos del cráneo y la cara. Articulación temporomandibular."
+        ],
+        "miologia": [
+          "músculos cutáneos de la cara, mandibulares o masticadores."
+        ],
+        "neurologia": [
+          "Pares craneales: facial y trigémino, trayecto periférico, ramas colaterales y terminales. Distribución muscular, glandular y cutánea."
+        ],
+        "angiologia": [
+          "Arteria facial, venas satélites."
+        ],
+        "glandulas": [
+          "Parótida (reconocimiento)."
+        ]
+      },
+      "orientacion_teorica": "División del cráneo y la cara (modo de estudio). Introducción al estudio de los pares craneales (trayecto periférico).",
+      "teoricos": [{"title":"Cabeza", "url":"https://drive.google.com/file/d/1iaQfch1unGLXDhPF94HElSlcuOFdsfDs/view?usp=drive_link"}],
+      "practicos": [],
+      "preparados": [{"title":"ATM","url":"https://drive.google.com/file/d/19eNjowxyw2mE8auLhPwihMIvy0qG4lnE/view?usp=drive_link"},{"title":"Preparados de Angiología de Cabeza - Arteria Facial","url":"https://drive.google.com/file/d/1utyAm5fISyYg2bZR_edIwA0WyJ7zFRCk/view?usp=drive_link"},{"title":"Preparados de Miología de Cabeza - Músculos Masticadores","url":"https://drive.google.com/file/d/1e4k79IJ265fXmZUO2G-a7zn9RNQZmUea/view?usp=drive_link"}]
+    },
+    {
+      "modulo": "II",
+      "numero": 11,
+      "titulo": "Columna Vertebral y Tórax",
+      "objetivos_especificos": [
+        "Describir la configuración osteoarticular de la caja torácica y la columna en conjunto."
+      ],
+      "contenidos": {
+        "osteologia": [
+          "Vértebra tipo y sus variedades: cervical, dorsal y lumbar. Atlas, axis, sacro y cóccix. Costillas, cartílagos costales y esternón."
+        ],
+        "artrologia": [
+          "Columna: Articulaciones intrínsecas y extrínsecas: intersomáticas, interapofisiarias, ligamentos a distancia interespinosos, supraespinosos, amarillos, intertransversos y vertebrales comunes. Articulaciones occipitoatloidea, atloideo-odontoidea, atloideoaxoidea. Ligamentos occipito-odontoideos y occipito-axoideos. Articulación sacroilíaca y sacrolumbar, ligamentos iliolumbares y sacrocíáticos. Configuración de la columna en conjunto. Repaso de las paredes de la pelvis.",
+          "Tórax: Articulaciones torácicas: costovertebrales, costotransversas y esternocostocondrales. Configuración osteoarticular del tórax en conjunto: orificios superior, inferior y paredes."
+        ]
+      },
+      "orientacion_teorica": "Movimientos de la columna y del tórax en conjunto. Curvaturas normales de la columna.",
+      "teoricos": [{"title":"Columna Vertebral", "url":"https://drive.google.com/file/d/1uIZq9pn48FULu5PF3NVonol5EhlCSLTx/view?usp=drive_link"}],
+      "practicos": [],
+      "preparados": [{"title":"Preparados de Columna vertebral generalidades","url":"https://drive.google.com/file/d/1SF6Cb0RB3ANeYu3nhYh26MOO5JU2Jwn6/view?usp=drive_link"},{"title":"Vértebras Especiales","url":"https://drive.google.com/file/d/1SYMzNcY9FCWPArS7O-o53BXZMgavjUrU/view?usp=drive_link"},{"title":"Esqueleto Axial","url":"https://drive.google.com/file/d/18cXJv5CMUtkL5ya5oGAW08Ojn-mh_Het/view?usp=drive_link"}]
+    },
+    {
+      "modulo": "II",
+      "numero": 12,
+      "titulo": "Tronco",
+      "objetivos_especificos": [],
+      "contenidos": {
+        "osteologia": [
+          "Vértebras, costillas y esternón (repaso)."
+        ],
+        "artrologia": [
+          "Articulaciones intervertebrales y torácicas (repaso)."
+        ],
+        "miologia": [
+          "Músculos del dorso: trapecio, dorsal ancho, romboides, angular, esplenios, complexos, transversoespinoso, sacrolumbar, iliocostal. Músculos del abdomen: recto mayor, oblicuos mayor y menor, transverso, cuadrado lumbar, psoas. Músculos del tórax: intercostales, supracostales, triangular del esternón. Diafragma: pilares, orificios."
+        ],
+        "neurologia": [
+          "Nervios espinales, ramos posteriores (descripción general)."
+        ],
+        "angiologia": [
+          "Aorta torácica y abdominal (repaso general)."
+        ],
+        "topografia": [
+          "Vainas de los músculos rectos. Región inguinoabdominal y trayecto inguinal. Triángulos de Tileaux, de los esplenios, de Petit, de Grynfelt-Krause, de Mansi. Repaso de axila."
+        ]
+      },
+      "orientacion_teorica": "Aponeurosis y fascias de la pared anterolateral y región lumbo-dorso-cervical.",
+      "teoricos": [{"title":"Tronco","url":"https://drive.google.com/file/d/1lhYIxe3pwZR-brIYanmHdIEYpEw98n9V/view?usp=drive_link"}],
+      "practicos": [],
+      "preparados": [{"title":"Preparados de Miología de tronco","url":"https://drive.google.com/file/d/1ByqC4k-2_Gbh_eOW1oHK3R5whc-RpHMl/view?usp=drive_link"}]
+    },
+    {
+      "modulo": "II",
+      "numero": 13,
+      "titulo": "Cuello",
+      "objetivos_especificos": [],
+      "contenidos": {
+        "osteologia": [
+          "Columna cervical (repaso). Hueso hioides."
+        ],
+        "artrologia": [
+          "Articulaciones del cuello (repaso)."
+        ],
+        "miologia": [
+          "Músculos del cuello: Platisma, ECM, escalenos, prevertebrales, suprahioideos, infrahioideos."
+        ],
+        "neurologia": [
+          "Plexo cervical: frénico, asa del hipogloso, occipital menor, etc. Pares craneales: neumogástrico, espinal, hipogloso (repaso del trayecto en cuello)."
+        ],
+        "angiologia": [
+          "Arterias carótida primitiva y sus ramas: carótida externa e interna. Yugular interna y externa."
+        ]
+      },
+      "orientacion_teorica": "Vías y ganglios linfáticos del cuello. Aponeurosis y fascias del cuello.",
+      "teoricos": [{"title":"Cuello","url":"https://drive.google.com/file/d/1f9EA6hHb3YxaHQaZxE0PFk4x_oRG3H3P/view?usp=drive_link"}],
+      "practicos": [],
+      "preparados": [{"title":"Preparados de Cuello","url":"https://drive.google.com/file/d/1mMpVz0R452BCKesitmDtWmunfDC2z-HE/view?usp=drive_link"}]
+    },
+    {
+      "modulo": "II",
+      "numero": 14,
+      "titulo": "Tórax y Aparato Respiratorio",
+      "objetivos_especificos": [
+        "Describir la configuración interna de la faringe, laringe."
+      ],
+      "contenidos": {
+        "esplacnologia": [
+          "Fosas nasales, faringe, laringe, tráquea, bronquios, pulmones, pleura."
+        ],
+        "miologia": [
+          "Diafragma: pilares y orificios, intercostales y triangular del esternón. Repaso de los músculos con función respiratoria accesoria."
+        ]
+      },
+      "orientacion_teorica": "Repaso de la caja torácica (osteo y artro): continente y contenido Configuración del torax en conjunto.",
+      "teoricos": [{"title":"Tórax y Aparato Respiratorio","url":"https://drive.google.com/file/d/1FNH_HW2EeKEGniO6MbRqYG7k-9Bopmom/view?usp=drive_link"}],
+      "practicos": [],
+      "preparados": [{"title":"Preparados de Aparato Respiratorio",
+      "url":"https://drive.google.com/file/d/1QWecHIwNt3K4WOpgqckS-qdIUnC5Kqgn/view?usp=drive_link"}]
+    },
+    {
+      "modulo": "II",
+      "numero": 15,
+      "titulo": "Angiología y Mediastino",
+      "objetivos_especificos": [
+        "Describir la configuración interna del corazón"
+      ],
+      "contenidos": {
+        "angiologia": [
+          "Corazón: in situ, configuración interna y externa. Inervación y vascularización. Pericardio fibroso y seroso. La corona vascular de los grandes vasos pericárdicos. Arteria aorta: ascendente, cayado y aorta descendente torácica, colaterales. Arteria aorta abdominal: todas sus ramas colaterales y terminales (las ramas intraperitoneales se desarrollaran en el aparato digestivo). Arteria pulmonar y sus ramas derecha e izquierda. Venas: cava superior e inferior, ácigos y hemiácigos, troncos venosos braquiocefálicos: colaterales. Venas pulmonares. Conducto torácico."
+        ],
+        "neurologia": [
+          "Nervios: frénico, neumogástrico, recurrente izquierdo, cardíacos e intercostales Sistema autónomo: cadena simpática laterovertebral torácica; esplácnicos mayor, menor e inferior."
+        ],
+        "topografia": [
+          "Mediastino: ubicación, contenido, relaciones y división."
+        ]
+      },
+      "orientacion_teorica": "Fascia endotorácica. Inervación autónoma: simpática y parasimpática. Sistema de conducción del corazón.",
+      "teoricos": [{"title":"Corazón","url":"https://drive.google.com/file/d/1szL-wbWXNzsYtEKAzA-8m_sS0AUS2XFk/view?usp=drive_link"}],
+      "practicos": [],
+      "preparados": [{"title":"Preparados de Corazón","url":"https://drive.google.com/file/d/1YjsmKWWWBuxLRSL4kIC6usQAjF_0EPp2/view?usp=drive_link"}]
+    },
+    {
+      "modulo": "II",
+      "numero": 16,
+      "titulo": "Abdomen y Aparato Digestivo.",
+      "objetivos_especificos": [
+        "Marcar y mencionar las paredes, división topográfica y contenido de la boca.",
+        "Señalar la disposición y denominación de cada diente."
+      ],
+      "contenidos": {
+        "esplacnologia": [
+          "Aparato digestivo: boca, dientes, paladar, lengua. Istmo de las fauces, pilares, amígdalas. Faringe, esófago, estómago, duodeno, yeyunoíleon, ciego, apéndice, colon ascendente, transverso y descendente, colon sigmoideo, recto y ano. Bazo. Glándulas anexas: glándulas salivales, hígado, páncreas, vesícula y vías biliares. Inervación e irrigación correspondiente.",
+          "Peritoneo: hoja parietal y visceral. Clasificación de los órganos. Reconocimiento de estructuras peritoneales: mesos, epiplones, ligamentos y fascias."
+        ],
+        "angiologia": [
+          "Arterias intraperitoneales ramas de la aorta: tronco celíaco, mesentéricas superior e inferior: colaterales. Venas: porta; mesentérica superior, inferior y esplénica."
+        ]
+      },
+      "orientacion_teorica": "Sistema autónomo: simpático y parasimpático. Plexo solar. Peritoneo (modo de estudio).",
+      "teoricos": [{"title":"Abdomen y Aparato Digestivo", "url":"https://drive.google.com/file/d/1iwRwZBcMBRqzHfSNJBPnIpdd99JzIr_5/view?usp=drive_link"}],
+      "practicos": [],
+      "preparados": [{"title":"Preparados de Abdomen","url":"https://drive.google.com/file/d/1ldltYYgDhbJrNIxEjH1CJdCvctu3wz8P/view?usp=drive_link"}]
+    },
+    {
+      "modulo": "II",
+      "numero": 17,
+      "titulo": "Región Retroperitoneal y Pelvis",
+      "objetivos_especificos": [],
+      "contenidos": {
+        "esplacnologia": [
+          "Aparato urinario: riñón, pelvis renal, uréter, vejiga y uretra. Glándulas suprarrenales. Inervación e irrigación correspondiente.",
+          "Aparato genital femenino: ovario, trompas de Falopio, útero, vagina, vulva, glándulas anexas, mamas.",
+          "Aparato genital masculino: testículos, bolsas escrotales, epidídimo, conducto deferente, vesículas seminales, próstata, conductos eyaculadores, pene, glándulas anexas. Inervación e irrigación correspondiente.",
+          "Peritoneo: región subperitoneal, peritoneo pelviano: sus dependencias y fondos de saco.",
+          "Endocrino: Integración y repaso de las glándulas endócrinas descriptas en las distintas regiones."
+        ],
+        "angiologia": [
+          "Arterias ilíacas primitivas, interna y externa: colaterales y terminales.Venas: cava inferior y sus colaterales.Venas satélites."
+        ],
+        "neurologia": [
+          "Sistema autónomo: cadena simpática laterovertebral lumbar. Plexo lumbosacro: abdóminogenital mayor y menor, genitocrural, femorocutáneo, crural y obturador. Duodécimo intercostal. Plexo sacro: colaterales y terminales. Sistema nervioso autónomo: plexo sacropudendo."
+        ],
+        "miologia": [
+          "Diafragma: pilares y orificios. Psoas mayor y menor, ilíaco. Cuadrado lumbar."
+        ]
+      },
+      "orientacion_teorica": "Organización del estudio de músculos y aponeurosis del periné.",
+      "teoricos": [{"title":"Región Retroperitoneal y Pelvis", "url":"https://drive.google.com/file/d/1OsFGSpd1FMjn_j2zLeKoIRbeFi5qvXpN/view?usp=drive_link"}],
+      "practicos": [],
+      "preparados": []
+    },
+    {
+      "modulo": "II",
+      "numero": 18,
+      "titulo": "Repaso General",
+      "objetivos_especificos": [],
+      "contenidos": [],
+      "orientacion_teorica": "",
+      "teoricos": [],
+      "practicos": [],
+      "preparados": []
+    },
+    {
+      "modulo": "III",
+      "numero": 19,
+      "titulo": "Introducción al estudio del Sistema Nervioso.",
+      "objetivos_especificos": [
+        "Definir el Sistema Nervioso y sus funciones.",
+        "Clasificar según las divisiones anatómica y funcional de sus partes constituyentes.",
+        "Integrar los conceptos de: componentes del Tejido Nervioso, sus funciones y organización en sustancia gris y blanca.",
+        "Relacionar los conceptos básicos del desarrollo embriológico del Sistema Nervioso con la función del mismo en el adulto."
+      ],
+      "contenidos": {
+        "introduccion": [
+          "Sistema nervioso: definición, divisiones: central y periférico, somático y visceral, sensitivo y motor. Funciones en general de sus partes constituyentes.",
+          "Tejido nervioso: elementos constituyentes: neuronas y neuroglía: concepto, principales células, funciones. Sinapsis, conducción nerviosa, aferencias y eferencias.",
+          "Sustancia gris: constitución anatómica. Concepto de sus agrupaciones propias: ganglio, núcleo, columna, lámina, corteza.",
+          "Sustancia blanca: constitución anatómica. Concepto de sus agrupaciones propias: cordón, fascículo, tracto, haz.",
+          "Embridología del S. N.: breve caracterización del desarrollo embriológico del SN: diferenciación del ectodermo neural, tubo y crestas neurales, placas alares y basales, láminas del techo y del piso, surco limitante, vesículas primarias y secundarias."
+        ],
+        "macroscopia": [
+          "Anatomía del cráneo y de la columna vertebral, como continentes del sistema nervioso central (repaso)",
+          "Anatomía macroscópica del sistema nervioso central. Concepto de integración general y continuidad. Relación continente y contenido."
+        ]
+      },
+      "orientacion_teorica": "",
+      "teoricos": [{"tile":"Introducción al estudio del Sistema Nervioso","url":"https://drive.google.com/file/d/1KxsTGqB5k7KHZvrlMkz3mR8vHdFba8lf/view?usp=drive_link"}],
+      "practicos": [],
+      "preparados": [{"tile":"Generalidades","url":"https://drive.google.com/file/d/1lLb79P7fUpP7npllJSZS-DlwNRhTBtuk/view?usp=drive_link"}]
+    },
+    {
+      "modulo": "III",
+      "numero": 20,
+      "titulo": "Macroscopia y Sistematización de Médula Espinal. Introducción a la Macroscopia de Tallo Encefálico",
+      "objetivos_especificos": [
+        "Correlacionar la organización columnar y laminar, de la sustancia gris medular.",
+        "Identificar número, división y relaciones del nervio espinal y repasar su trayecto y distribución.",
+        "Analizar los componentes funcionales del NE y correlacionarlos con las estructuras que inervan."
+      ],
+      "contenidos": {
+        "medula": [
+          "MACROSCOPÍA: situación, forma, límites, dimensiones, medios de fijación. Correspondencia vértebro-medular.",
+          "SISTEMATIZACIÓN: Sustancia gris: núcleos, esquema citoarquitectónico de Rexed. Funciones y conexiones. Aferencias y eferencias. Diferencias entre los distintos niveles.",
+          "Sustancia blanca: haces ascendentes, descendentes, de asociación y propioespinales. Diferencias entre los distintos niveles.",
+          "Nervio espinal: número, división, constitución: raíces dorsal y ventral, ganglio espinal, ramas. Componentes funcionales del nervio periférico.",
+          "Arco reflejo: enumeración y ubicación de sus componentes. Acto reflejo."
+        ],
+        "tallo_encefalico": [
+          "MACROSCOPÍA: Introducción a su estudio. Situación, límites, partes que lo componen: bulbo raquídeo, protuberancia y mesencéfalo."
+        ]
+      },
+      "orientacion_teorica": "",
+      "teoricos": [{"tile":"Médula Espinal","url":"https://drive.google.com/file/d/1qVFuRH3yljwfxShx63nOnqsg6jNORdVz/view?usp=drive_link"}],
+      "practicos": [],
+      "preparados": [{"tile":"Preparados de Médula espinal","url":"https://drive.google.com/file/d/1K83WE61UlWA1VqVWQu5ccqwfFAV8mc9J/view?usp=drive_link"}]
+    },
+    {
+      "modulo": "III",
+      "numero": 21,
+      "titulo": "Macroscopia y Sistematización de Tallo Encefálico. Introducción a la Macroscopia del Cerebelo",
+      "objetivos_especificos": [],
+      "contenidos": {
+        "tallo_encefalico": [
+          "MACROSCOPÍA: Bulbo, protuberancia y mesencéfalo. Estructuras macroscópicas del piso de IV ventrículo. Origen aparente de los pares craneales.",
+          "SISTEMATIZACIÓN: sustancia gris: núcleos de los pares craneales y núcleos propios a cada nivel, ubicación, función, conexiones, aferencias y eferencias.",
+          "Sustancia blanca: haces de paso, de asociación y formaciones propias.",
+          "Análisis de los cortes esquemáticos horizontales y verticales."
+        ],
+        "cerebelo": [
+          "MACROSCOPÍA: Introducción a su estudio. Situación. Forma."
+        ]
+      },
+      "orientacion_teorica": "",
+      "teoricos": [{"tile":"Tronco del encéfalo","url":"https://drive.google.com/file/d/1ok2ZpYil4qpATf6Mgyg19V-IiNya30wQ/view?usp=drive_link"}],
+      "practicos": [],
+      "preparados": [{"tile":"Preparados de Tronco del encéfalo","url":"https://drive.google.com/file/d/1t0FjU-ILKz_7HhxuurxOcoEfkKGjGS5_/view?usp=drive_link"}]
+    },
+    {
+      "modulo": "III",
+      "numero": 22,
+      "titulo": "Macroscopia y Sistematización de Cerebelo. Pares Craneales.",
+      "objetivos_especificos": [
+        "Identificar la constitución básica de la corteza cerebelosa: capas, nombre de las células que las componen y conexiones aferentes y eferentes.",
+        "Identificar número, división y relaciones de los pares craneales, y repasar su trayecto y distribución.",
+        "Analizar los componentes de los pares craneales, correlacionarlos con las estructuras que inerva y compararlo con el Nervio Espinal."
+      ],
+      "contenidos": {
+        "cerebelo": [
+          "MACROSCOPÍA: divisiones: vermis y hemisferios, lóbulos anterior, posterior y flóculo-nodular. Pedúnculos cerebelosos superior, medio e inferior.",
+          "SISTEMATIZACIÓN: Arqui, paleo y neocerebelo. Significación funcional: cerebelovestibular (equilibrio) cerebeloespinal (tono muscular), cerebelocerebral (movimientos).",
+          "Sustancia gris: corteza: capas, tipos celulares, conexiones, aferencias y eferencias. Núcleos profundos: ubicación, conexiones, aferencias y eferencias.",
+          "Sustancia blanca: divisiones del cerebelo por las conexiones entre su corteza y los núcleos profundos: zona vermiana, paravermiana y lateral. Haces constituyentes de los pedúnculos cerebelosos superior, medio e inferior."
+        ],
+        "pares_craneales": [
+          "Enumeración y clasificación (sensitivos, motores y mixtos). Análisis de cada par craneal: origen real y aparente, trayecto y distribución. Componentes funcionales. Estudio comparativo del nervio craneano y espinal."
+        ]
+      },
+      "orientacion_teorica": "",
+      "teoricos": [{"tile":"Cerebelo","url":"https://drive.google.com/file/d/1UNmbx3nKXu7wRpv5AHtz7qRwmM2-kL-M/view?usp=drive_link"},{"tile":"Pares craneales","url":"https://drive.google.com/file/d/1uv782rhd3BLHRxP9e6RkEF21D7pMGW07/view?usp=drive_link"}],
+      "practicos": [],
+      "preparados": [{"tile":"Preparados de Cerebelo","url":"https://drive.google.com/file/d/1Z9WjLMIAVw9rC57BiEA5KQkH-8IDCoMc/view?usp=drive_link"}]
+    },
+    {
+      "modulo": "III",
+      "numero": 23,
+      "titulo": "Macroscopia y Sistematización de Diencéfalo.",
+      "objetivos_especificos": [],
+      "contenidos": {
+        "diencefalo": [
+          "MACROSCOPÍA: situación, forma, límites, partes constituyentes: hipotálamo, tálamo, subtálamo, epitálamo.",
+          "SISTEMATIZACIÓN: Epitálamo: epífisis, núcleos habenulares, estría medular y techo epitelial del tercer ventrículo. Conexiones aferentes y eferentes. Significación funcional.",
+          "Tálamo: núcleos principales (VPM, VPL, CGM, CGL). Conexiones aferentes y eferentes. Significación funcional.",
+          "Hipotálamo: áreas. Conexiones aferentes y eferentes. Significación funcional.",
+          "Subtálamo: núcleos y campo de Forel. Conexiones aferentes y eferentes. Significación funcional."
+        ]
+      },
+      "orientacion_teorica": "",
+      "teoricos": [{"tile":"Diencéfalo","url":"https://drive.google.com/file/d/1ho9xYfv88yz9Yze8snQ3AdXthObYzTzA/view?usp=drive_link"}],
+      "practicos": [],
+      "preparados": [{"tile":"Preparados de Diencéfalo","url":"https://drive.google.com/file/d/1y-p9Se_OAF8jSvBL6cgPdWLMsY6S3mKt/view?usp=drive_link"}]
+    },
+    {
+      "modulo": "III",
+      "numero": 24,
+      "titulo": "Macroscopia y Sistematización de Hemisferios Cerebrales.",
+      "objetivos_especificos": [
+        "Identificar la constitución básica de la corteza cerebral: capas, nombre de las células que las componen y conexiones aferentes y eferentes.",
+        "Reconocer las principales localizaciones de las áreas citoarquitectónicas de Brodmann y sus conexiones funcionales."
+      ],
+      "contenidos": {
+        "hemisferios_cerebrales": [
+          "MACROSCOPÍA: Situación, forma, características generales: caras, bordes, cisuras, lóbulos, surcos, circunvoluciones. Hendidura cerebral de Bichat. Estructuras interhemisféricas: cuerpo calloso, comisuras blancas anterior y posterior, fornix.",
+          "SISTEMATIZACIÓN: Sustancia gris: Corteza cerebral: capas, tipos de células que identifican cada capa. Conexiones aferentes y eferentes. Áreas citoarquitectónicas: mapa cortical de Brodman. Localizaciones funcionales. Homúnculos. Arquí, paleo y neocortex. Formación del hipocampo. Concepto de hemisferio dominante. Ganglios o núcleos de la base: arqui, paleo y neoestriado. Forma, ubicación, relaciones. Conexiones aferentes y eferentes.",
+          "Sustancia blanca: fibras comisurales, de asociación y de proyección."
+        ]
+      },
+      "orientacion_teorica": "",
+      "teoricos": [{"tile":"Hemisferios Cerebrales","url":"https://drive.google.com/file/d/1qJkf-rDmZKALPEAwQHwFgL2ToLKK0_cl/view?usp=drive_link"}],
+      "practicos": [],
+      "preparados": [{"tile":"Preparados de hemisferios cerebrales","url":"https://drive.google.com/file/d/1v9DkuGPdIK5vlWpsWDXGPsITj4iW5i8K/view?usp=drive_link"}]
+    },
+    {
+      "modulo": "III",
+      "numero": 25,
+      "titulo": "Vías del Sistema Nervioso. Cortes de Cerebro.",
+      "objetivos_especificos": [
+        "Analizar el concepto de vía del SN e identificar cada uno de sus elementos constituyentes.",
+        "Clasificar los receptores y efectores según sus diferentes tipos.",
+        "Analizar en particular cada vía (sensitiva - motora - sensorial): ubicación de elementos constitutivos, funciones y relaciones."
+      ],
+      "contenidos": {
+        "vias_sn": [
+          "Introducción a su estudio. Generalidades. Clasificación.",
+          "Receptores: clasificación según la forma de energía transducida, según la morfología y la tipología básica. Clasificación de Sherrington. Efectores: tipos de respuesta. Unidad neuromotriz.",
+          "Vías sensitivas ascendentes: sensibilidad profunda consciente e inconsciente, epicrítica y protopática, termoalgesia, sensibilidad de la cabeza.",
+          "Vías motoras descendentes: Piramidal: corticoespinal y corticonuclear (ortho y yuxtapiramidal). Extrapiramidales: tectoespinal, rubroespinal, vestíbuloespinal y retículoespinal. Circuitos extrapiramidales que incluyen cerebro, diencéfalo, tallo encefálico, cerebelo y médula.",
+          "Vías sensoriales: Ojo y vía óptica. Oído y vía auditiva-vestibular. Gusto y olfato."
+        ],
+        "cortes_cerebro": [
+          "MACROSCOPÍA: Corte mamilar transverso o de Charcot. Corte horizontal tipo Flechsig. Cortes verticotransversales o de Jakob. Reconocimiento de las estructuras principales: corteza, núcleos y sustancia blanca."
+        ]
+      },
+      "orientacion_teorica": "",
+      "teoricos": [{"tile":"Cortes del Cerebro","url":"https://drive.google.com/file/d/1-4g3TVYc6At0gjgLSmotD8MWoOfqQ50z/view?usp=drive_link"},{"tile":"Vias Motoras","url":"https://drive.google.com/file/d/1XgfUJZSlYqxrxALvAivxqucS2kesLi_d/view?usp=drive_link"},{"tile":"Vias sensitivas","url":"https://drive.google.com/file/d/1XgfUJZSlYqxrxALvAivxqucS2kesLi_d/view?usp=drive_link"}],
+      "practicos": [],
+      "preparados": [{"tile":"Preparados de cortes","url":"https://drive.google.com/file/d/1WvM0FQiNHXRiLnulHV2QnoyzsBjhjzWn/view?usp=drive_link"}]
+    },
+    {
+      "modulo": "III",
+      "numero": 26,
+      "titulo": "Sistema Nervioso Autónomo. Irrigación. Sistema Ventricular. Meninges.",
+      "objetivos_especificos": [
+        "Analizar la organización funcional del Sistema Nervioso Autónomo, integrando entre sí las estructuras anatómicas que lo componen.",
+        "Relacionar funcionalmente sistema ventricular y espacio subaracnoideo. Analizar su contenido, líquido cefalorraquídeo: formación, circulación, absorción y funciones."
+      ],
+      "contenidos": {
+        "sistema_nervioso_autonomo": [
+          "Organización anátomo-funcional. Divisiones craneosacra (parasimáptica) y toracolumbar (simpática). Principales centros y vías. Ganglios autónomos. Ramo comunicante blanco (eferencia preganglionar) y ramo comunicante gris (eferencia posganglionar). Aferencias. Arco reflejo visceral."
+        ],
+        "irrigacion_encefalica": [
+          "Vascularización arterial del encéfalo: círculo arterial de la base del cerebro (polígono de Willis), principales arterias y sus ramas colaterales: cerebral anterior, media y posterior. Territorio de distribución de las arterias encefálicas. Irrigación del tronco cerebral, cerebelo y médula. Venas cerebrales y senos venosos."
+        ],
+        "sistema_ventricular_y_meninges": [
+          "Concepto. Ventrículos laterales, tercer y cuarto ventrículo, acueducto de Silvio y epéndimo. Sus paredes, prolongaciones y comunicaciones. Meninges espinales y craneales: constitución anatómica. Líquido cefalorraquídeo: formación y circulación."
+        ]
+      },
+      "orientacion_teorica": "",
+      "teoricos": [{"tile":"Irrigación del encéfalo","url":"https://drive.google.com/file/d/1g6hm0TnwJqQ0_Qol9DOM9ebukbnrINkZ/view?usp=drive_link"},{"tile":"Sistema Ventricular - Meninges","url":"https://drive.google.com/file/d/19crimDFp_wzK3EfltIpwy4SiirmWWVcr/view?usp=drive_link"},{"tile":"Sistema Nervioso Autónomo","url":"https://drive.google.com/file/d/1j4K7DKBKIypHZ-BgHg0baAdXw3duZTUj/view?usp=drive_link"}],
+      "practicos": [],
+      "preparados": [{"tile":"Preparados de Sistema Nervioso Autónomo. Irrigación. Sistema Ventricular. Meninges.","url":"https://drive.google.com/file/d/16YXuEeWKSCxrgRBlwQMH90kvkTbC7HEn/view?usp=drive_link"}]
+    },
+    {
+      "modulo": "III",
+      "numero": 27,
+      "titulo": "Repaso General",
+      "objetivos_especificos": [],
+      "contenidos": [],
+      "orientacion_teorica": "",
+      "teoricos": [],
+      "practicos": [],
+      "preparados": []
     }
-  ]
+  ],
+  "caracteristicas_metodologicas": {
+    "trabajos_practicos": "son de carácter presencial obligatorio con una frecuencia semanal de 4 horas de duración. Los alumnos se distribuyen en comisiones en los turnos mañana, tarde y noche. Los alumnos interactúan entre ellos bajo la supervisión estrecha del docente a cargo, para encontrar y describir en el preparado anatómico cada una de las estructuras correspondientes al programa del trabajo práctico del día, siguiendo los objetivos antes enunciados La condición de regular se mantiene con un mínimo del 80 % de asistencia a los trabajos prácticos.",
+    "clases_teoricas": "son de carácter presencial voluntario, con una frecuencia de una vez por semana de una hora de duración. Dan apoyo y están en concordancia con los trabajos prácticos."
+  },
+  "evaluaciones": {
+    "parciales": "Se toman al finalizar cada uno de los tres módulos y constan de dos partes: 1. Teórica, escrita: examen con preguntas semiestructuradas a responder en un lapso de 60 minutos. Siendo necesaria el 51% de las respuestas correctas para su aprobación. 2. Práctica, oral: individual Es imprescindible aprobar el examen teórico para poder rendir el examen práctico. Ambas notas aprobadas se promedian para la calificación definitiva. Para obtener la regularidad es necesaria la aprobación de las 3 evaluaciones parciales.",
+    "recuperatorias": "Es posible recuperar cualquiera de los parciales reprobados, en la semana siguiente a la evaluación parcial o al finalizar la cursada. El examen recuperatorio es de las mismas características que el examen parcial. Reprobar el examen Recuperatorio coloca al alumno en la condición de Alumno Libre impidiéndole continuar cursando los trabajos prácticos.",
+    "finales": "El alumno regular deberá rendir el Examen Final para aprobar la materia. El mismo es un examen escrito de iguales características a la evaluación parcial escrita. El alumno libre deberá rendir, además, un examen práctico."
+  },
+  "bibliografia": {
+    "sugerida": [
+      "ANATOMIA HUMANA: Testut, L.; Latarjet, A. Ed. Salvat",
+      "ANATOMIA HUMANA: Rouviere, H. Ed. Bailly-Bailliere.",
+      "ANATOMIA HUMANA: Rouviere, H.; Delmas, A. Ed. Masson. (9ª edición)",
+      "GRAY ANATOMIA: Williams, P.; Warwick, R. Ed. Salvat o Ed. Churchill Livinstone.",
+      "ANATOMIA: Bouchet, A.; Cuilleret, J. Ed Panamericana.",
+      "TRATADO DE ANATOMIA: Cunningham. Ed. Interamericana. (14º edición)",
+      "NEUROANATOMIA HUMANA: Carpenter, M. Ed. El Ateneo",
+      "NEUROANATOMIA HUMANA: Carpenter, M; Sutin, J. Ed. El Ateneo. (6º edición)",
+      "NEUROANATOMIA: House, E.; Pansky, B. Ed. López Libreros.",
+      "NEUROANATOMIA: Mascitti, T. Ed. Panamericana.",
+      "ANATOMIA DEL SISTEMA NERVIOSO: Ranson, S.; Clarck, S. Ed. Interamericana.",
+      "FUNCIONES MOTORAS DEL SISTEMA NERVIOSO: Loyber, I.",
+      "NERVIOS CRANEANOS, Anatomía clínica: Pauwels, W.; Stewart, A. Ed. Panamericana"
+    ],
+    "complementaria": [
+      "ATLAS DE ANATOMIA: Sobotta. Ed. Panamericana.",
+      "ATLAS DE ANATOMIA: Kahle, Platzes y Leonhardt. Ed. Omega",
+      "ANATOMIA: Grant y Anderson. Ed. Intermédica"
+    ]
+  }
 }
