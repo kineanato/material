@@ -346,8 +346,18 @@
         "Cintura escapular: escápula y clavícula. Húmero, cúbito, radio. huesos del carpo, metacarpo y falanges."
       ],
       "orientacion_teorica": "Posición anatómica. Ejes y planos del cuerpo. Direcciones en el espacio. Nomenclatura y lenguaje anatómico. Huesos: definición y clasificación. El esqueleto y su división",
-      "teoricos": [{"title":"Introducción a la Anatomía", "url":"https://drive.google.com/file/d/1aqvJWfofh4ZQhz5BH-BtxHclvDlpLI8x/view?usp=drive_link"}],
-      "practicos": [{"title":"Orientación para Osteología de Miembro Superior", "url":"https://drive.google.com/file/d/1JQaLgmwzv9mdS8V1vNkJV05zDlExH2aa/view?usp=drive_link"}],
+      "teoricos": [
+        {
+          "title": "Introducción a la Anatomía",
+          "url": "https://drive.google.com/file/d/1aqvJWfofh4ZQhz5BH-BtxHclvDlpLI8x/view?usp=drive_link"
+        }
+      ],
+      "practicos": [
+        {
+          "title": "Orientación para Osteología de Miembro Superior",
+          "url": "https://drive.google.com/file/d/1JQaLgmwzv9mdS8V1vNkJV05zDlExH2aa/view?usp=drive_link"
+        }
+      ],
       "preparados": []
     },
     {
@@ -359,8 +369,18 @@
         "Articulación esterno-costo-clavicular o esterno-clavicular. Ligamentos coracoclaviculares. Ligamentos propios de la escápula. Art. acromioclavicular. Art. escápulotorácica. Art. escápulohumeral. Bolsas serosas. Art. húmeroantebraquial o del codo. Art. radiocubitales: superior, inferior y membrana interósea. Art. radiocarpiana. Art. intercarpianas, carpometacarpianas e intermetacarpianas; metacarpofalángicas e interfalángicas. Ligamentos palmares dorsales e interóseos"
       ],
       "orientacion_teorica": "Articulaciones: definición y clasificaciones. Nociones de mecánica articular. Nomenclatura de los movimientos.",
-      "teoricos": [{"title":"Introducción a la Artrología", "url":"https://drive.google.com/file/d/11RFDoNh_HXhvSVvCb3XKXTcqP4dVVtKG/view?usp=drive_link"}],
-      "practicos": [{"title":"Orientación para Artrología de Miembro Superior", "url":"https://drive.google.com/file/d/1Qgp3fvLwvkQtej_OAMNDzy1AiR_jYE19/view?usp=drive_link"}],
+      "teoricos": [
+        {
+          "title": "Introducción a la Artrología",
+          "url": "https://drive.google.com/file/d/11RFDoNh_HXhvSVvCb3XKXTcqP4dVVtKG/view?usp=drive_link"
+        }
+      ],
+      "practicos": [
+        {
+          "title": "Orientación para Artrología de Miembro Superior",
+          "url": "https://drive.google.com/file/d/1Qgp3fvLwvkQtej_OAMNDzy1AiR_jYE19/view?usp=drive_link"
+        }
+      ],
       "preparados": []
     },
     {
@@ -378,8 +398,22 @@
         "Músculos de la mano: abeductor corto del pulgar, flexor corto del pulgar, oponente y aductor del pulgar, palmar cutáneo, flexor corto del meñique, oponente y aductor del meñique, lumbricales e interóseos."
       ],
       "orientacion_teorica": "Músculos: definición y clasificación. Anexos (fascias, aponeurosis, vainas sinoviales y tendones). Reconocimiento de planos cutáneo, subcutáneo, aponeurótico, sub-aponeurótico y muscular. Fascias, aponeurosis y vainas sinoviales de miembro superior.",
-      "teoricos": [{"title":"Introducción a la Miología", "url":"https://drive.google.com/file/d/11VBQ-J9IaEooSL56JVtx81HqyA60ELrI/view?usp=drive_link"},{"title":"Aponeurosis del miembro superior", "url":"https://drive.google.com/file/d/1amXZXKRj_wRr_VbujjjnbIqY4DAQdkgH/view?usp=drive_link"}],
-      "practicos": [{"title":"Orientación para Miologia de Miembro Superior","url":"https://drive.google.com/file/d/1QHhOsO9zzUpFRRmVpLvUIvkCc_L6KsZS/view?usp=drive_link"}],
+      "teoricos": [
+        {
+          "title": "Introducción a la Miología",
+          "url": "https://drive.google.com/file/d/11VBQ-J9IaEooSL56JVtx81HqyA60ELrI/view?usp=drive_link"
+        },
+        {
+          "title": "Aponeurosis del miembro superior",
+          "url": "https://drive.google.com/file/d/1amXZXKRj_wRr_VbujjjnbIqY4DAQdkgH/view?usp=drive_link"
+        }
+      ],
+      "practicos": [
+        {
+          "title": "Orientación para Miologia de Miembro Superior",
+          "url": "https://drive.google.com/file/d/1QHhOsO9zzUpFRRmVpLvUIvkCc_L6KsZS/view?usp=drive_link"
+        }
+      ],
       "preparados": []
     },
     {
@@ -396,8 +430,26 @@
         ]
       },
       "orientacion_teorica": "Introducción al estudio de sistema nervioso periférico. Organización anatomo-funcional del sistema circulatorio. Introducción al estudio del sistema linfático",
-      "teoricos": [{"title":"Introducción a la Neurología", "url":"https://drive.google.com/file/d/1FbjZvDRRdVvYVXcLBsr7R8ghozLgAX_r/view?usp=drive_link"}, {"title":"Introducción a la Angiología", "url":"https://drive.google.com/file/d/1kBOrBG-OhtmTnemF0jbHWVEIU_MrqDvE/view?usp=drive_link"}],
-      "practicos": [{"title":"Orientación para Angiología de Miembro Superior", "url":"https://drive.google.com/file/d/1gdjHTJWxi71EaC-yc1sLKqEBdXgD8zTm/view?usp=drive_link"},{"title":"Orientación para Neurología de Miembro Superior", "url":"https://drive.google.com/file/d/16frOzkgytRskvjX20-ps5C9bBI4Q4QGb/view?usp=drive_link"}],
+      "teoricos": [
+        {
+          "title": "Introducción a la Neurología",
+          "url": "https://drive.google.com/file/d/1FbjZvDRRdVvYVXcLBsr7R8ghozLgAX_r/view?usp=drive_link"
+        },
+        {
+          "title": "Introducción a la Angiología",
+          "url": "https://drive.google.com/file/d/1kBOrBG-OhtmTnemF0jbHWVEIU_MrqDvE/view?usp=drive_link"
+        }
+      ],
+      "practicos": [
+        {
+          "title": "Orientación para Angiología de Miembro Superior",
+          "url": "https://drive.google.com/file/d/1gdjHTJWxi71EaC-yc1sLKqEBdXgD8zTm/view?usp=drive_link"
+        },
+        {
+          "title": "Orientación para Neurología de Miembro Superior",
+          "url": "https://drive.google.com/file/d/16frOzkgytRskvjX20-ps5C9bBI4Q4QGb/view?usp=drive_link"
+        }
+      ],
       "preparados": []
     },
     {
@@ -410,7 +462,12 @@
       ],
       "orientacion_teorica": "",
       "teoricos": [],
-      "practicos": [{"title":"Orientación para Topografía de Miembro Superior", "url":"https://drive.google.com/file/d/1jrAcZ1Zp9jT2rUhiAR4mCoa-ymVkYAo7/view?usp=drive_link"}],
+      "practicos": [
+        {
+          "title": "Orientación para Topografía de Miembro Superior",
+          "url": "https://drive.google.com/file/d/1jrAcZ1Zp9jT2rUhiAR4mCoa-ymVkYAo7/view?usp=drive_link"
+        }
+      ],
       "preparados": []
     },
     {
@@ -430,9 +487,28 @@
         ]
       },
       "orientacion_teorica": "",
-      "teoricos": [{"title":"Ostología y Artrología de miembro inferior","url":"https://drive.google.com/file/d/1A_aPcBoKwdx8t88EJLsf1FoHsF0_D2ih/view?usp=drive_link"}],
-      "practicos": [{"title":"Orientación para Oeteología de Miembro Inferior", "url":"https://drive.google.com/file/d/1GlLRmCD6h6NvkgRMY6J2ipXoK_XYexbZ/view?usp=drive_link"},{"title":"Orientación para Artrología de Miembro Inferior", "url":"https://drive.google.com/file/d/1Fv3ZpCIM6NvZwCp7a0t1JKAVV-86j458/view?usp=drive_link"}],
-      "preparados": [{"title":"Preparados de Artrología de Miembro Inferior","url":"https://drive.google.com/file/d/1hSOMsUB-sUMeW6oT_qaiiCT4MIwiR93v/view?usp=drive_link"}]
+      "teoricos": [
+        {
+          "title": "Ostología y Artrología de miembro inferior",
+          "url": "https://drive.google.com/file/d/1A_aPcBoKwdx8t88EJLsf1FoHsF0_D2ih/view?usp=drive_link"
+        }
+      ],
+      "practicos": [
+        {
+          "title": "Orientación para Oeteología de Miembro Inferior",
+          "url": "https://drive.google.com/file/d/1GlLRmCD6h6NvkgRMY6J2ipXoK_XYexbZ/view?usp=drive_link"
+        },
+        {
+          "title": "Orientación para Artrología de Miembro Inferior",
+          "url": "https://drive.google.com/file/d/1Fv3ZpCIM6NvZwCp7a0t1JKAVV-86j458/view?usp=drive_link"
+        }
+      ],
+      "preparados": [
+        {
+          "title": "Preparados de Artrología de Miembro Inferior",
+          "url": "https://drive.google.com/file/d/1hSOMsUB-sUMeW6oT_qaiiCT4MIwiR93v/view?usp=drive_link"
+        }
+      ]
     },
     {
       "modulo": "I",
@@ -451,9 +527,36 @@
         ]
       },
       "orientacion_teorica": "Aponeurosis glútea, fascia lata, aponeurosis de la pierna, retináculos y vainas sinoviales del miembro inferior.",
-      "teoricos": [{"title":"Aponeurosis del miembro inferior", "url":"https://drive.google.com/file/d/1niRpvZERbm7TWqBxXE6fi_CwQsJ5fwsH/view?usp=drive_link"}, {"title":"Neurología del miembro inferior ","url":"https://drive.google.com/file/d/1SctWGPOUVNa7mc3rFUkxlpQc8FhP0K9p/view?usp=drive_link"}],
-      "practicos": [{"title":"Orientación para Miologia de Miembro Inferior","url":"https://drive.google.com/file/d/1a392J4yJKubdk2FWb5X9cRdHnhIa5kIP/view?usp=drive_link"},{"title":"Orientación para Neurología de Miembro Inferior", "url":"https://drive.google.com/file/d/1V8ftDBbknWEWiqdf6RE-hM_TbG0OXyv_/view?usp=drive_link"}],
-      "preparados": [{"title":"Preparados de Miología Miembro Inferior","url":"https://drive.google.com/file/d/1JDUovr6JZkQFBajyPZ22FHp5uhNK6mwe/view?usp=drive_link"}, {"title":"Preparados de Inervación de Miembro Inferior", "url":"https://drive.google.com/file/d/15Nt2qMxlUA_j1o9UK7dBeIhOrVKKHqgK/view?usp=drive_link"}]
+      "teoricos": [
+        {
+          "title": "Aponeurosis del miembro inferior",
+          "url": "https://drive.google.com/file/d/1niRpvZERbm7TWqBxXE6fi_CwQsJ5fwsH/view?usp=drive_link"
+        },
+        {
+          "title": "Neurología del miembro inferior ",
+          "url": "https://drive.google.com/file/d/1SctWGPOUVNa7mc3rFUkxlpQc8FhP0K9p/view?usp=drive_link"
+        }
+      ],
+      "practicos": [
+        {
+          "title": "Orientación para Miologia de Miembro Inferior",
+          "url": "https://drive.google.com/file/d/1a392J4yJKubdk2FWb5X9cRdHnhIa5kIP/view?usp=drive_link"
+        },
+        {
+          "title": "Orientación para Neurología de Miembro Inferior",
+          "url": "https://drive.google.com/file/d/1V8ftDBbknWEWiqdf6RE-hM_TbG0OXyv_/view?usp=drive_link"
+        }
+      ],
+      "preparados": [
+        {
+          "title": "Preparados de Miología Miembro Inferior",
+          "url": "https://drive.google.com/file/d/1JDUovr6JZkQFBajyPZ22FHp5uhNK6mwe/view?usp=drive_link"
+        },
+        {
+          "title": "Preparados de Inervación de Miembro Inferior",
+          "url": "https://drive.google.com/file/d/15Nt2qMxlUA_j1o9UK7dBeIhOrVKKHqgK/view?usp=drive_link"
+        }
+      ]
     },
     {
       "modulo": "I",
@@ -469,9 +572,32 @@
         ]
       },
       "orientacion_teorica": "",
-      "teoricos": [{"title":"Angiología de miembro inferior","url":"https://drive.google.com/file/d/18Ofy0qm_pbJXK146aH2BB7sBm2N70bCG/view?usp=drive_link"}],
-      "practicos": [{"title":"Orientación para Angiología de Miembro Inferior", "url":"https://drive.google.com/file/d/1jPF39RlVkKBV-h9LvBMLlP9K_A0Bkmnx/view?usp=drive_link"},{"title":"Orientación para Topografía de Miembro Inferior", "url":"https://drive.google.com/file/d/1f8pcoGb2Xt2M_HXdNeedm13rJIo-M1Ni/view?usp=drive_link"}],
-      "preparados": [{"title":"Preparados de Angiología de Miembro Inferior", "url":"https://drive.google.com/file/d/1chNumvzwGapWYTqNkUoVyQ0a-Gk39WuO/view?usp=drive_link"},{"title":"Preparados de Topografía de Miembro Inferior", "url":"https://drive.google.com/file/d/1FLfyBI7JcOZveXsYu-UZRUJQFtiio0Ky/view?usp=drive_link"}]
+      "teoricos": [
+        {
+          "title": "Angiología de miembro inferior",
+          "url": "https://drive.google.com/file/d/18Ofy0qm_pbJXK146aH2BB7sBm2N70bCG/view?usp=drive_link"
+        }
+      ],
+      "practicos": [
+        {
+          "title": "Orientación para Angiología de Miembro Inferior",
+          "url": "https://drive.google.com/file/d/1jPF39RlVkKBV-h9LvBMLlP9K_A0Bkmnx/view?usp=drive_link"
+        },
+        {
+          "title": "Orientación para Topografía de Miembro Inferior",
+          "url": "https://drive.google.com/file/d/1f8pcoGb2Xt2M_HXdNeedm13rJIo-M1Ni/view?usp=drive_link"
+        }
+      ],
+      "preparados": [
+        {
+          "title": "Preparados de Angiología de Miembro Inferior",
+          "url": "https://drive.google.com/file/d/1chNumvzwGapWYTqNkUoVyQ0a-Gk39WuO/view?usp=drive_link"
+        },
+        {
+          "title": "Preparados de Topografía de Miembro Inferior",
+          "url": "https://drive.google.com/file/d/1FLfyBI7JcOZveXsYu-UZRUJQFtiio0Ky/view?usp=drive_link"
+        }
+      ]
     },
     {
       "modulo": "I",
@@ -517,9 +643,27 @@
         ]
       },
       "orientacion_teorica": "División del cráneo y la cara (modo de estudio). Introducción al estudio de los pares craneales (trayecto periférico).",
-      "teoricos": [{"title":"Cabeza", "url":"https://drive.google.com/file/d/1iaQfch1unGLXDhPF94HElSlcuOFdsfDs/view?usp=drive_link"}],
+      "teoricos": [
+        {
+          "title": "Cabeza",
+          "url": "https://drive.google.com/file/d/1iaQfch1unGLXDhPF94HElSlcuOFdsfDs/view?usp=drive_link"
+        }
+      ],
       "practicos": [],
-      "preparados": [{"title":"ATM","url":"https://drive.google.com/file/d/19eNjowxyw2mE8auLhPwihMIvy0qG4lnE/view?usp=drive_link"},{"title":"Preparados de Angiología de Cabeza - Arteria Facial","url":"https://drive.google.com/file/d/1utyAm5fISyYg2bZR_edIwA0WyJ7zFRCk/view?usp=drive_link"},{"title":"Preparados de Miología de Cabeza - Músculos Masticadores","url":"https://youtu.be/XgU8CIuZxlM"}]
+      "preparados": [
+        {
+          "title": "ATM",
+          "url": "https://drive.google.com/file/d/19eNjowxyw2mE8auLhPwihMIvy0qG4lnE/view?usp=drive_link"
+        },
+        {
+          "title": "Preparados de Angiología de Cabeza - Arteria Facial",
+          "url": "https://drive.google.com/file/d/1utyAm5fISyYg2bZR_edIwA0WyJ7zFRCk/view?usp=drive_link"
+        },
+        {
+          "title": "Preparados de Miología de Cabeza - Músculos Masticadores",
+          "url": "https://youtu.be/XgU8CIuZxlM"
+        }
+      ]
     },
     {
       "modulo": "II",
@@ -538,9 +682,27 @@
         ]
       },
       "orientacion_teorica": "Movimientos de la columna y del tórax en conjunto. Curvaturas normales de la columna.",
-      "teoricos": [{"title":"Columna Vertebral", "url":"https://drive.google.com/file/d/1uIZq9pn48FULu5PF3NVonol5EhlCSLTx/view?usp=drive_link"}],
+      "teoricos": [
+        {
+          "title": "Columna Vertebral",
+          "url": "https://drive.google.com/file/d/1uIZq9pn48FULu5PF3NVonol5EhlCSLTx/view?usp=drive_link"
+        }
+      ],
       "practicos": [],
-      "preparados": [{"title":"Preparados de Columna vertebral generalidades","url":"https://drive.google.com/file/d/1SF6Cb0RB3ANeYu3nhYh26MOO5JU2Jwn6/view?usp=drive_link"},{"title":"Vértebras Especiales","url":"https://drive.google.com/file/d/1SYMzNcY9FCWPArS7O-o53BXZMgavjUrU/view?usp=drive_link"},{"title":"Esqueleto Axial","url":"https://drive.google.com/file/d/18cXJv5CMUtkL5ya5oGAW08Ojn-mh_Het/view?usp=drive_link"}]
+      "preparados": [
+        {
+          "title": "Preparados de Columna vertebral generalidades",
+          "url": "https://drive.google.com/file/d/1SF6Cb0RB3ANeYu3nhYh26MOO5JU2Jwn6/view?usp=drive_link"
+        },
+        {
+          "title": "Vértebras Especiales",
+          "url": "https://drive.google.com/file/d/1SYMzNcY9FCWPArS7O-o53BXZMgavjUrU/view?usp=drive_link"
+        },
+        {
+          "title": "Esqueleto Axial",
+          "url": "https://drive.google.com/file/d/18cXJv5CMUtkL5ya5oGAW08Ojn-mh_Het/view?usp=drive_link"
+        }
+      ]
     },
     {
       "modulo": "II",
@@ -568,9 +730,19 @@
         ]
       },
       "orientacion_teorica": "Aponeurosis y fascias de la pared anterolateral y región lumbo-dorso-cervical.",
-      "teoricos": [{"title":"Tronco","url":"https://drive.google.com/file/d/1lhYIxe3pwZR-brIYanmHdIEYpEw98n9V/view?usp=drive_link"}],
+      "teoricos": [
+        {
+          "title": "Tronco",
+          "url": "https://drive.google.com/file/d/1lhYIxe3pwZR-brIYanmHdIEYpEw98n9V/view?usp=drive_link"
+        }
+      ],
       "practicos": [],
-      "preparados": [{"title":"Preparados de Miología de tronco","url":"https://drive.google.com/file/d/1ByqC4k-2_Gbh_eOW1oHK3R5whc-RpHMl/view?usp=drive_link"}]
+      "preparados": [
+        {
+          "title": "Preparados de Miología de tronco",
+          "url": "https://drive.google.com/file/d/1ByqC4k-2_Gbh_eOW1oHK3R5whc-RpHMl/view?usp=drive_link"
+        }
+      ]
     },
     {
       "modulo": "II",
@@ -595,9 +767,19 @@
         ]
       },
       "orientacion_teorica": "Vías y ganglios linfáticos del cuello. Aponeurosis y fascias del cuello.",
-      "teoricos": [{"title":"Cuello","url":"https://drive.google.com/file/d/1f9EA6hHb3YxaHQaZxE0PFk4x_oRG3H3P/view?usp=drive_link"}],
+      "teoricos": [
+        {
+          "title": "Cuello",
+          "url": "https://drive.google.com/file/d/1f9EA6hHb3YxaHQaZxE0PFk4x_oRG3H3P/view?usp=drive_link"
+        }
+      ],
       "practicos": [],
-      "preparados": [{"title":"Preparados de Cuello","url":"https://drive.google.com/file/d/1mMpVz0R452BCKesitmDtWmunfDC2z-HE/view?usp=drive_link"}]
+      "preparados": [
+        {
+          "title": "Preparados de Cuello",
+          "url": "https://drive.google.com/file/d/1mMpVz0R452BCKesitmDtWmunfDC2z-HE/view?usp=drive_link"
+        }
+      ]
     },
     {
       "modulo": "II",
@@ -615,10 +797,19 @@
         ]
       },
       "orientacion_teorica": "Repaso de la caja torácica (osteo y artro): continente y contenido Configuración del torax en conjunto.",
-      "teoricos": [{"title":"Tórax y Aparato Respiratorio","url":"https://drive.google.com/file/d/1FNH_HW2EeKEGniO6MbRqYG7k-9Bopmom/view?usp=drive_link"}],
+      "teoricos": [
+        {
+          "title": "Tórax y Aparato Respiratorio",
+          "url": "https://drive.google.com/file/d/1FNH_HW2EeKEGniO6MbRqYG7k-9Bopmom/view?usp=drive_link"
+        }
+      ],
       "practicos": [],
-      "preparados": [{"title":"Preparados de Aparato Respiratorio",
-      "url":"https://drive.google.com/file/d/1QWecHIwNt3K4WOpgqckS-qdIUnC5Kqgn/view?usp=drive_link"}]
+      "preparados": [
+        {
+          "title": "Preparados de Aparato Respiratorio",
+          "url": "https://drive.google.com/file/d/1QWecHIwNt3K4WOpgqckS-qdIUnC5Kqgn/view?usp=drive_link"
+        }
+      ]
     },
     {
       "modulo": "II",
@@ -639,9 +830,19 @@
         ]
       },
       "orientacion_teorica": "Fascia endotorácica. Inervación autónoma: simpática y parasimpática. Sistema de conducción del corazón.",
-      "teoricos": [{"title":"Corazón","url":"https://drive.google.com/file/d/1szL-wbWXNzsYtEKAzA-8m_sS0AUS2XFk/view?usp=drive_link"}],
+      "teoricos": [
+        {
+          "title": "Corazón",
+          "url": "https://drive.google.com/file/d/1szL-wbWXNzsYtEKAzA-8m_sS0AUS2XFk/view?usp=drive_link"
+        }
+      ],
       "practicos": [],
-      "preparados": [{"title":"Preparados de Corazón","url":"https://drive.google.com/file/d/1YjsmKWWWBuxLRSL4kIC6usQAjF_0EPp2/view?usp=drive_link"}]
+      "preparados": [
+        {
+          "title": "Preparados de Corazón",
+          "url": "https://drive.google.com/file/d/1YjsmKWWWBuxLRSL4kIC6usQAjF_0EPp2/view?usp=drive_link"
+        }
+      ]
     },
     {
       "modulo": "II",
@@ -661,9 +862,19 @@
         ]
       },
       "orientacion_teorica": "Sistema autónomo: simpático y parasimpático. Plexo solar. Peritoneo (modo de estudio).",
-      "teoricos": [{"title":"Abdomen y Aparato Digestivo", "url":"https://drive.google.com/file/d/1iwRwZBcMBRqzHfSNJBPnIpdd99JzIr_5/view?usp=drive_link"}],
+      "teoricos": [
+        {
+          "title": "Abdomen y Aparato Digestivo",
+          "url": "https://drive.google.com/file/d/1iwRwZBcMBRqzHfSNJBPnIpdd99JzIr_5/view?usp=drive_link"
+        }
+      ],
       "practicos": [],
-      "preparados": [{"title":"Preparados de Abdomen","url":"https://drive.google.com/file/d/1ldltYYgDhbJrNIxEjH1CJdCvctu3wz8P/view?usp=drive_link"}]
+      "preparados": [
+        {
+          "title": "Preparados de Abdomen",
+          "url": "https://drive.google.com/file/d/1ldltYYgDhbJrNIxEjH1CJdCvctu3wz8P/view?usp=drive_link"
+        }
+      ]
     },
     {
       "modulo": "II",
@@ -689,7 +900,12 @@
         ]
       },
       "orientacion_teorica": "Organización del estudio de músculos y aponeurosis del periné.",
-      "teoricos": [{"title":"Región Retroperitoneal y Pelvis", "url":"https://drive.google.com/file/d/1OsFGSpd1FMjn_j2zLeKoIRbeFi5qvXpN/view?usp=drive_link"}],
+      "teoricos": [
+        {
+          "title": "Región Retroperitoneal y Pelvis",
+          "url": "https://drive.google.com/file/d/1OsFGSpd1FMjn_j2zLeKoIRbeFi5qvXpN/view?usp=drive_link"
+        }
+      ],
       "practicos": [],
       "preparados": []
     },
@@ -728,9 +944,19 @@
         ]
       },
       "orientacion_teorica": "",
-      "teoricos": [{"tile":"Introducción al estudio del Sistema Nervioso","url":"https://drive.google.com/file/d/1KxsTGqB5k7KHZvrlMkz3mR8vHdFba8lf/view?usp=drive_link"}],
+      "teoricos": [
+        {
+          "tile": "Introducción al estudio del Sistema Nervioso",
+          "url": "https://drive.google.com/file/d/1KxsTGqB5k7KHZvrlMkz3mR8vHdFba8lf/view?usp=drive_link"
+        }
+      ],
       "practicos": [],
-      "preparados": [{"tile":"Generalidades","url":"https://drive.google.com/file/d/1lLb79P7fUpP7npllJSZS-DlwNRhTBtuk/view?usp=drive_link"}]
+      "preparados": [
+        {
+          "tile": "Generalidades",
+          "url": "https://drive.google.com/file/d/1lLb79P7fUpP7npllJSZS-DlwNRhTBtuk/view?usp=drive_link"
+        }
+      ]
     },
     {
       "modulo": "III",
@@ -754,9 +980,19 @@
         ]
       },
       "orientacion_teorica": "",
-      "teoricos": [{"tile":"Médula Espinal","url":"https://drive.google.com/file/d/1qVFuRH3yljwfxShx63nOnqsg6jNORdVz/view?usp=drive_link"}],
+      "teoricos": [
+        {
+          "tile": "Médula Espinal",
+          "url": "https://drive.google.com/file/d/1qVFuRH3yljwfxShx63nOnqsg6jNORdVz/view?usp=drive_link"
+        }
+      ],
       "practicos": [],
-      "preparados": [{"tile":"Preparados de Médula espinal","url":"https://drive.google.com/file/d/1K83WE61UlWA1VqVWQu5ccqwfFAV8mc9J/view?usp=drive_link"}]
+      "preparados": [
+        {
+          "tile": "Preparados de Médula espinal",
+          "url": "https://drive.google.com/file/d/1K83WE61UlWA1VqVWQu5ccqwfFAV8mc9J/view?usp=drive_link"
+        }
+      ]
     },
     {
       "modulo": "III",
@@ -775,9 +1011,19 @@
         ]
       },
       "orientacion_teorica": "",
-      "teoricos": [{"tile":"Tronco del encéfalo","url":"https://drive.google.com/file/d/1ok2ZpYil4qpATf6Mgyg19V-IiNya30wQ/view?usp=drive_link"}],
+      "teoricos": [
+        {
+          "tile": "Tronco del encéfalo",
+          "url": "https://drive.google.com/file/d/1ok2ZpYil4qpATf6Mgyg19V-IiNya30wQ/view?usp=drive_link"
+        }
+      ],
       "practicos": [],
-      "preparados": [{"tile":"Preparados de Tronco del encéfalo","url":"https://drive.google.com/file/d/1t0FjU-ILKz_7HhxuurxOcoEfkKGjGS5_/view?usp=drive_link"}]
+      "preparados": [
+        {
+          "tile": "Preparados de Tronco del encéfalo",
+          "url": "https://drive.google.com/file/d/1t0FjU-ILKz_7HhxuurxOcoEfkKGjGS5_/view?usp=drive_link"
+        }
+      ]
     },
     {
       "modulo": "III",
@@ -800,9 +1046,23 @@
         ]
       },
       "orientacion_teorica": "",
-      "teoricos": [{"tile":"Cerebelo","url":"https://drive.google.com/file/d/1UNmbx3nKXu7wRpv5AHtz7qRwmM2-kL-M/view?usp=drive_link"},{"tile":"Pares craneales","url":"https://drive.google.com/file/d/1uv782rhd3BLHRxP9e6RkEF21D7pMGW07/view?usp=drive_link"}],
+      "teoricos": [
+        {
+          "tile": "Cerebelo",
+          "url": "https://drive.google.com/file/d/1UNmbx3nKXu7wRpv5AHtz7qRwmM2-kL-M/view?usp=drive_link"
+        },
+        {
+          "tile": "Pares craneales",
+          "url": "https://drive.google.com/file/d/1uv782rhd3BLHRxP9e6RkEF21D7pMGW07/view?usp=drive_link"
+        }
+      ],
       "practicos": [],
-      "preparados": [{"tile":"Preparados de Cerebelo","url":"https://drive.google.com/file/d/1Z9WjLMIAVw9rC57BiEA5KQkH-8IDCoMc/view?usp=drive_link"}]
+      "preparados": [
+        {
+          "tile": "Preparados de Cerebelo",
+          "url": "https://drive.google.com/file/d/1Z9WjLMIAVw9rC57BiEA5KQkH-8IDCoMc/view?usp=drive_link"
+        }
+      ]
     },
     {
       "modulo": "III",
@@ -819,9 +1079,19 @@
         ]
       },
       "orientacion_teorica": "",
-      "teoricos": [{"tile":"Diencéfalo","url":"https://drive.google.com/file/d/1ho9xYfv88yz9Yze8snQ3AdXthObYzTzA/view?usp=drive_link"}],
+      "teoricos": [
+        {
+          "tile": "Diencéfalo",
+          "url": "https://drive.google.com/file/d/1ho9xYfv88yz9Yze8snQ3AdXthObYzTzA/view?usp=drive_link"
+        }
+      ],
       "practicos": [],
-      "preparados": [{"tile":"Preparados de Diencéfalo","url":"https://drive.google.com/file/d/1y-p9Se_OAF8jSvBL6cgPdWLMsY6S3mKt/view?usp=drive_link"}]
+      "preparados": [
+        {
+          "tile": "Preparados de Diencéfalo",
+          "url": "https://drive.google.com/file/d/1y-p9Se_OAF8jSvBL6cgPdWLMsY6S3mKt/view?usp=drive_link"
+        }
+      ]
     },
     {
       "modulo": "III",
@@ -839,9 +1109,19 @@
         ]
       },
       "orientacion_teorica": "",
-      "teoricos": [{"tile":"Hemisferios Cerebrales","url":"https://drive.google.com/file/d/1qJkf-rDmZKALPEAwQHwFgL2ToLKK0_cl/view?usp=drive_link"}],
+      "teoricos": [
+        {
+          "tile": "Hemisferios Cerebrales",
+          "url": "https://drive.google.com/file/d/1qJkf-rDmZKALPEAwQHwFgL2ToLKK0_cl/view?usp=drive_link"
+        }
+      ],
       "practicos": [],
-      "preparados": [{"tile":"Preparados de hemisferios cerebrales","url":"https://drive.google.com/file/d/1v9DkuGPdIK5vlWpsWDXGPsITj4iW5i8K/view?usp=drive_link"}]
+      "preparados": [
+        {
+          "tile": "Preparados de hemisferios cerebrales",
+          "url": "https://drive.google.com/file/d/1v9DkuGPdIK5vlWpsWDXGPsITj4iW5i8K/view?usp=drive_link"
+        }
+      ]
     },
     {
       "modulo": "III",
@@ -865,9 +1145,27 @@
         ]
       },
       "orientacion_teorica": "",
-      "teoricos": [{"tile":"Cortes del Cerebro","url":"https://drive.google.com/file/d/1-4g3TVYc6At0gjgLSmotD8MWoOfqQ50z/view?usp=drive_link"},{"tile":"Vias Motoras","url":"https://drive.google.com/file/d/1XgfUJZSlYqxrxALvAivxqucS2kesLi_d/view?usp=drive_link"},{"tile":"Vias sensitivas","url":"https://drive.google.com/file/d/1XgfUJZSlYqxrxALvAivxqucS2kesLi_d/view?usp=drive_link"}],
+      "teoricos": [
+        {
+          "tile": "Cortes del Cerebro",
+          "url": "https://drive.google.com/file/d/1-4g3TVYc6At0gjgLSmotD8MWoOfqQ50z/view?usp=drive_link"
+        },
+        {
+          "tile": "Vias Motoras",
+          "url": "https://drive.google.com/file/d/1XgfUJZSlYqxrxALvAivxqucS2kesLi_d/view?usp=drive_link"
+        },
+        {
+          "tile": "Vias sensitivas",
+          "url": "https://drive.google.com/file/d/1XgfUJZSlYqxrxALvAivxqucS2kesLi_d/view?usp=drive_link"
+        }
+      ],
       "practicos": [],
-      "preparados": [{"tile":"Preparados de cortes","url":"https://drive.google.com/file/d/1WvM0FQiNHXRiLnulHV2QnoyzsBjhjzWn/view?usp=drive_link"}]
+      "preparados": [
+        {
+          "tile": "Preparados de cortes",
+          "url": "https://drive.google.com/file/d/1WvM0FQiNHXRiLnulHV2QnoyzsBjhjzWn/view?usp=drive_link"
+        }
+      ]
     },
     {
       "modulo": "III",
@@ -889,9 +1187,27 @@
         ]
       },
       "orientacion_teorica": "",
-      "teoricos": [{"tile":"Irrigación del encéfalo","url":"https://drive.google.com/file/d/1g6hm0TnwJqQ0_Qol9DOM9ebukbnrINkZ/view?usp=drive_link"},{"tile":"Sistema Ventricular - Meninges","url":"https://drive.google.com/file/d/19crimDFp_wzK3EfltIpwy4SiirmWWVcr/view?usp=drive_link"},{"tile":"Sistema Nervioso Autónomo","url":"https://drive.google.com/file/d/1j4K7DKBKIypHZ-BgHg0baAdXw3duZTUj/view?usp=drive_link"}],
+      "teoricos": [
+        {
+          "tile": "Irrigación del encéfalo",
+          "url": "https://drive.google.com/file/d/1g6hm0TnwJqQ0_Qol9DOM9ebukbnrINkZ/view?usp=drive_link"
+        },
+        {
+          "tile": "Sistema Ventricular - Meninges",
+          "url": "https://drive.google.com/file/d/19crimDFp_wzK3EfltIpwy4SiirmWWVcr/view?usp=drive_link"
+        },
+        {
+          "tile": "Sistema Nervioso Autónomo",
+          "url": "https://drive.google.com/file/d/1j4K7DKBKIypHZ-BgHg0baAdXw3duZTUj/view?usp=drive_link"
+        }
+      ],
       "practicos": [],
-      "preparados": [{"tile":"Preparados de Sistema Nervioso Autónomo. Irrigación. Sistema Ventricular. Meninges.","url":"https://drive.google.com/file/d/16YXuEeWKSCxrgRBlwQMH90kvkTbC7HEn/view?usp=drive_link"}]
+      "preparados": [
+        {
+          "tile": "Preparados de Sistema Nervioso Autónomo. Irrigación. Sistema Ventricular. Meninges.",
+          "url": "https://drive.google.com/file/d/16YXuEeWKSCxrgRBlwQMH90kvkTbC7HEn/view?usp=drive_link"
+        }
+      ]
     },
     {
       "modulo": "III",
@@ -947,16 +1263,74 @@
         "nombre": "MÓDULO I",
         "rango_fechas": "16/3 - 23/5",
         "semanas": [
-          {"semana": 1, "rango": "16/3 - 20/3", "tp": 1, "feriados": ["clase_inaugural_16/3"]},
-          {"semana": 2, "rango": "23/3 - 27/3", "tp": 2, "feriados": ["23-24/3", "1/4", "2-3/4"]},
-          {"semana": 3, "rango": "30/3 - 3/4", "tp": 2, "observaciones": "Misma semana del TP2"},
-          {"semana": 4, "rango": "6/4 - 10/4", "tp": 3, "feriados": []},
-          {"semana": 5, "rango": "13/4 - 17/4", "tp": 4, "feriados": []},
-          {"semana": 6, "rango": "20/4 - 24/4", "tp": 5, "feriados": []},
-          {"semana": 7, "rango": "27/4 - 1/5", "tp": 6, "feriados": ["1/5"]},
-          {"semana": 8, "rango": "4/5 - 8/5", "tp": 7, "feriados": []},
-          {"semana": 9, "rango": "11/5 - 15/5", "tp": 8, "feriados": []},
-          {"semana": 10, "rango": "18/5 - 22/5", "tp": 9, "feriados": []}
+          {
+            "semana": 1,
+            "rango": "16/3 - 20/3",
+            "tp": 1,
+            "feriados": [
+              "clase_inaugural_16/3"
+            ]
+          },
+          {
+            "semana": 2,
+            "rango": "23/3 - 27/3",
+            "tp": 2,
+            "feriados": [
+              "23-24/3",
+              "1/4",
+              "2-3/4"
+            ]
+          },
+          {
+            "semana": 3,
+            "rango": "30/3 - 3/4",
+            "tp": 2,
+            "observaciones": "Misma semana del TP2"
+          },
+          {
+            "semana": 4,
+            "rango": "6/4 - 10/4",
+            "tp": 3,
+            "feriados": []
+          },
+          {
+            "semana": 5,
+            "rango": "13/4 - 17/4",
+            "tp": 4,
+            "feriados": []
+          },
+          {
+            "semana": 6,
+            "rango": "20/4 - 24/4",
+            "tp": 5,
+            "feriados": []
+          },
+          {
+            "semana": 7,
+            "rango": "27/4 - 1/5",
+            "tp": 6,
+            "feriados": [
+              "1/5"
+            ]
+          },
+          {
+            "semana": 8,
+            "rango": "4/5 - 8/5",
+            "tp": 7,
+            "feriados": []
+          },
+          {
+            "semana": 9,
+            "rango": "11/5 - 15/5",
+            "tp": 8,
+            "feriados": []
+          },
+          {
+            "semana": 10,
+            "rango": "18/5 - 22/5",
+            "tp": 9,
+            "feriados": []
+          }
         ],
         "parcial": {
           "teorico": "23/5",
@@ -967,16 +1341,69 @@
         "nombre": "MÓDULO II",
         "rango_fechas": "1/6 - 21/8",
         "semanas": [
-          {"semana": 11, "rango": "1/6 - 5/6", "tp": 10, "feriados": []},
-          {"semana": 12, "rango": "8/6 - 12/6", "tp": 11, "observaciones": "Recuperatorio 1er parcial"},
-          {"semana": 13, "rango": "15/6 - 19/6", "tp": 12, "feriados": ["15/6"]},
-          {"semana": 14, "rango": "22/6 - 26/6", "tp": 13, "feriados": []},
-          {"semana": 15, "rango": "29/6 - 3/7", "tp": 14, "feriados": []},
-          {"semana": 16, "rango": "6/7 - 10/7", "tp": 15, "feriados": ["9-10/7"]},
-          {"semana": 17, "rango": "13/7 - 17/7", "tp": 16, "feriados": []},
-          {"semana": "receso", "rango": "20/7 - 31/7", "observaciones": "RECESO INVERNAL"},
-          {"semana": 18, "rango": "3/8 - 7/8", "tp": 17, "feriados": []},
-          {"semana": 19, "rango": "10/8 - 14/8", "tp": 18, "feriados": []}
+          {
+            "semana": 11,
+            "rango": "1/6 - 5/6",
+            "tp": 10,
+            "feriados": []
+          },
+          {
+            "semana": 12,
+            "rango": "8/6 - 12/6",
+            "tp": 11,
+            "observaciones": "Recuperatorio 1er parcial"
+          },
+          {
+            "semana": 13,
+            "rango": "15/6 - 19/6",
+            "tp": 12,
+            "feriados": [
+              "15/6"
+            ]
+          },
+          {
+            "semana": 14,
+            "rango": "22/6 - 26/6",
+            "tp": 13,
+            "feriados": []
+          },
+          {
+            "semana": 15,
+            "rango": "29/6 - 3/7",
+            "tp": 14,
+            "feriados": []
+          },
+          {
+            "semana": 16,
+            "rango": "6/7 - 10/7",
+            "tp": 15,
+            "feriados": [
+              "9-10/7"
+            ]
+          },
+          {
+            "semana": 17,
+            "rango": "13/7 - 17/7",
+            "tp": 16,
+            "feriados": []
+          },
+          {
+            "semana": "receso",
+            "rango": "20/7 - 31/7",
+            "observaciones": "RECESO INVERNAL"
+          },
+          {
+            "semana": 18,
+            "rango": "3/8 - 7/8",
+            "tp": 17,
+            "feriados": []
+          },
+          {
+            "semana": 19,
+            "rango": "10/8 - 14/8",
+            "tp": 18,
+            "feriados": []
+          }
         ],
         "parcial": {
           "teorico": "15/8",
@@ -987,29 +1414,105 @@
         "nombre": "MÓDULO III",
         "rango_fechas": "24/8 - 30/11",
         "semanas": [
-          {"semana": 20, "rango": "24/8 - 28/8", "tp": 19, "feriados": []},
-          {"semana": 21, "rango": "31/8 - 4/9", "tp": 20, "observaciones": "Recuperatorio 2do parcial"},
-          {"semana": 22, "rango": "7/9 - 11/9", "tp": 21, "feriados": []},
-          {"semana": 23, "rango": "14/9 - 18/9", "observaciones": "SEMANA JORNADAS - NO HAY CLASES"},
-          {"semana": 24, "rango": "21/9 - 25/9", "tp": 22, "feriados": []},
-          {"semana": 25, "rango": "28/9 - 2/10", "tp": 23, "feriados": []},
-          {"semana": 26, "rango": "5/10 - 9/10", "tp": 24, "feriados": []},
-          {"semana": 27, "rango": "12/10 - 16/10", "tp": 25, "feriados": ["12/10"]},
-          {"semana": 28, "rango": "19/10 - 23/10", "tp": 26, "feriados": []},
-          {"semana": 29, "rango": "26/10 - 30/10", "tp": 27, "feriados": []},
-          {"semana": 30, "rango": "2/11 - 6/11", "observaciones": "III PARCIAL PRÁCTICO"},
-          {"semana": 31, "rango": "9/11 - 13/11", "observaciones": "REPASOS"},
-          {"semana": 32, "rango": "16/11 - 20/11", "observaciones": "RECUPERATORIOS"},
-          {"semana": 33, "rango": "24/11 - 27/11", "observaciones": "RECUPERATORIOS 2DA OPCIÓN"}
+          {
+            "semana": 20,
+            "rango": "24/8 - 28/8",
+            "tp": 19,
+            "feriados": []
+          },
+          {
+            "semana": 21,
+            "rango": "31/8 - 4/9",
+            "tp": 20,
+            "observaciones": "Recuperatorio 2do parcial"
+          },
+          {
+            "semana": 22,
+            "rango": "7/9 - 11/9",
+            "tp": 21,
+            "feriados": []
+          },
+          {
+            "semana": 23,
+            "rango": "14/9 - 18/9",
+            "observaciones": "SEMANA JORNADAS - NO HAY CLASES"
+          },
+          {
+            "semana": 24,
+            "rango": "21/9 - 25/9",
+            "tp": 22,
+            "feriados": []
+          },
+          {
+            "semana": 25,
+            "rango": "28/9 - 2/10",
+            "tp": 23,
+            "feriados": []
+          },
+          {
+            "semana": 26,
+            "rango": "5/10 - 9/10",
+            "tp": 24,
+            "feriados": []
+          },
+          {
+            "semana": 27,
+            "rango": "12/10 - 16/10",
+            "tp": 25,
+            "feriados": [
+              "12/10"
+            ]
+          },
+          {
+            "semana": 28,
+            "rango": "19/10 - 23/10",
+            "tp": 26,
+            "feriados": []
+          },
+          {
+            "semana": 29,
+            "rango": "26/10 - 30/10",
+            "tp": 27,
+            "feriados": []
+          },
+          {
+            "semana": 30,
+            "rango": "2/11 - 6/11",
+            "observaciones": "III PARCIAL PRÁCTICO"
+          },
+          {
+            "semana": 31,
+            "rango": "9/11 - 13/11",
+            "observaciones": "REPASOS"
+          },
+          {
+            "semana": 32,
+            "rango": "16/11 - 20/11",
+            "observaciones": "RECUPERATORIOS"
+          },
+          {
+            "semana": 33,
+            "rango": "24/11 - 27/11",
+            "observaciones": "RECUPERATORIOS 2DA OPCIÓN"
+          }
         ],
         "parcial": {
           "teorico": "31/10",
           "practico": "2/11 - 6/11"
         },
         "finales": [
-          {"fecha": "30/11", "tipo": "PRIMERA FECHA"},
-          {"fecha": "9/12", "tipo": "SEGUNDA FECHA"},
-          {"fecha": "14/12", "tipo": "TERCERA FECHA"}
+          {
+            "fecha": "30/11",
+            "tipo": "PRIMERA FECHA"
+          },
+          {
+            "fecha": "9/12",
+            "tipo": "SEGUNDA FECHA"
+          },
+          {
+            "fecha": "14/12",
+            "tipo": "TERCERA FECHA"
+          }
         ]
       }
     },
