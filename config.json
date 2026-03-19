@@ -935,5 +935,84 @@
       "ATLAS DE ANATOMIA: Kahle, Platzes y Leonhardt. Ed. Omega",
       "ANATOMIA: Grant y Anderson. Ed. Intermédica"
     ]
+  },
+  "control_acceso": {
+    "configuracion_general": {
+      "dia_habilitacion_semanal": "sabado",
+      "hora_habilitacion": "00:00",
+      "ultima_actualizacion": "2026-03-19T10:00:00Z"
+    },
+    "cronograma": {
+      "modulo_i": {
+        "nombre": "MÓDULO I",
+        "rango_fechas": "16/3 - 23/5",
+        "semanas": [
+          {"semana": 1, "rango": "16/3 - 20/3", "tp": 1, "feriados": ["clase_inaugural_16/3"]},
+          {"semana": 2, "rango": "23/3 - 27/3", "tp": 2, "feriados": ["23-24/3", "1/4", "2-3/4"]},
+          {"semana": 3, "rango": "30/3 - 3/4", "tp": 2, "observaciones": "Misma semana del TP2"},
+          {"semana": 4, "rango": "6/4 - 10/4", "tp": 3, "feriados": []},
+          {"semana": 5, "rango": "13/4 - 17/4", "tp": 4, "feriados": []},
+          {"semana": 6, "rango": "20/4 - 24/4", "tp": 5, "feriados": []},
+          {"semana": 7, "rango": "27/4 - 1/5", "tp": 6, "feriados": ["1/5"]},
+          {"semana": 8, "rango": "4/5 - 8/5", "tp": 7, "feriados": []},
+          {"semana": 9, "rango": "11/5 - 15/5", "tp": 8, "feriados": []},
+          {"semana": 10, "rango": "18/5 - 22/5", "tp": 9, "feriados": []}
+        ],
+        "parcial": {
+          "teorico": "23/5",
+          "practico": "26/5 - 29/5"
+        }
+      },
+      "modulo_ii": {
+        "nombre": "MÓDULO II",
+        "rango_fechas": "1/6 - 21/8",
+        "semanas": [
+          {"semana": 11, "rango": "1/6 - 5/6", "tp": 10, "feriados": []},
+          {"semana": 12, "rango": "8/6 - 12/6", "tp": 11, "observaciones": "Recuperatorio 1er parcial"},
+          {"semana": 13, "rango": "15/6 - 19/6", "tp": 12, "feriados": ["15/6"]},
+          {"semana": 14, "rango": "22/6 - 26/6", "tp": 13, "feriados": []},
+          {"semana": 15, "rango": "29/6 - 3/7", "tp": 14, "feriados": []},
+          {"semana": 16, "rango": "6/7 - 10/7", "tp": 15, "feriados": ["9-10/7"]},
+          {"semana": 17, "rango": "13/7 - 17/7", "tp": 16, "feriados": []},
+          {"semana": "receso", "rango": "20/7 - 31/7", "observaciones": "RECESO INVERNAL"},
+          {"semana": 18, "rango": "3/8 - 7/8", "tp": 17, "feriados": []},
+          {"semana": 19, "rango": "10/8 - 14/8", "tp": 18, "feriados": []}
+        ],
+        "parcial": {
+          "teorico": "15/8",
+          "practico": "18/8 - 21/8"
+        }
+      },
+      "modulo_iii": {
+        "nombre": "MÓDULO III",
+        "rango_fechas": "24/8 - 30/11",
+        "semanas": [
+          {"semana": 20, "rango": "24/8 - 28/8", "tp": 19, "feriados": []},
+          {"semana": 21, "rango": "31/8 - 4/9", "tp": 20, "observaciones": "Recuperatorio 2do parcial"},
+          {"semana": 22, "rango": "7/9 - 11/9", "tp": 21, "feriados": []},
+          {"semana": 23, "rango": "14/9 - 18/9", "observaciones": "SEMANA JORNADAS - NO HAY CLASES"},
+          {"semana": 24, "rango": "21/9 - 25/9", "tp": 22, "feriados": []},
+          {"semana": 25, "rango": "28/9 - 2/10", "tp": 23, "feriados": []},
+          {"semana": 26, "rango": "5/10 - 9/10", "tp": 24, "feriados": []},
+          {"semana": 27, "rango": "12/10 - 16/10", "tp": 25, "feriados": ["12/10"]},
+          {"semana": 28, "rango": "19/10 - 23/10", "tp": 26, "feriados": []},
+          {"semana": 29, "rango": "26/10 - 30/10", "tp": 27, "feriados": []},
+          {"semana": 30, "rango": "2/11 - 6/11", "observaciones": "III PARCIAL PRÁCTICO"},
+          {"semana": 31, "rango": "9/11 - 13/11", "observaciones": "REPASOS"},
+          {"semana": 32, "rango": "16/11 - 20/11", "observaciones": "RECUPERATORIOS"},
+          {"semana": 33, "rango": "24/11 - 27/11", "observaciones": "RECUPERATORIOS 2DA OPCIÓN"}
+        ],
+        "parcial": {
+          "teorico": "31/10",
+          "practico": "2/11 - 6/11"
+        },
+        "finales": [
+          {"fecha": "30/11", "tipo": "PRIMERA FECHA"},
+          {"fecha": "9/12", "tipo": "SEGUNDA FECHA"},
+          {"fecha": "14/12", "tipo": "TERCERA FECHA"}
+        ]
+      }
+    },
+    "materiales": []
   }
 }
