@@ -372,16 +372,19 @@
       "teoricos": [
         {
           "title": "Introducción a la Artrología",
-          "url": "https://drive.google.com/file/d/11RFDoNh_HXhvSVvCb3XKXTcqP4dVVtKG/view?usp=drive_link"
+          "url": "https://drive.google.com/file/d/1U9PnEjQYEmVwEfhMtQDoOwtJmxIl3u1c/view?usp=sharing"
         }
       ],
       "practicos": [
         {
           "title": "Orientación para Artrología de Miembro Superior",
-          "url": "https://drive.google.com/file/d/1Qgp3fvLwvkQtej_OAMNDzy1AiR_jYE19/view?usp=drive_link"
+          "url": "https://drive.google.com/file/d/10VC9b94kOngEfCqER5VYtWRO0jA9QKCV/view?usp=drive_link"
         }
       ],
-      "preparados": []
+      "preparados": [{
+          "title": "Preparados de Artrología de Miembro Superior",
+          "url": "https://drive.google.com/file/d/1UFVVA3brkV2X9mBzQ56ajhJxqrVYs7Eu/view?usp=drive_link"
+        }]
     },
     {
       "modulo": "I",
@@ -401,7 +404,7 @@
       "teoricos": [
         {
           "title": "Introducción a la Miología",
-          "url": "https://drive.google.com/file/d/11VBQ-J9IaEooSL56JVtx81HqyA60ELrI/view?usp=drive_link"
+          "url": "https://drive.google.com/file/d/1ODFyrldzVROu770blZiHqO32SHrmo0kE/view?usp=sharing"
         },
         {
           "title": "Aponeurosis del miembro superior",
@@ -411,10 +414,13 @@
       "practicos": [
         {
           "title": "Orientación para Miologia de Miembro Superior",
-          "url": "https://drive.google.com/file/d/1QHhOsO9zzUpFRRmVpLvUIvkCc_L6KsZS/view?usp=drive_link"
+          "url": "https://drive.google.com/file/d/12lKZSKKRyP7XMpW3Jp-bC7cCiSnpy5yW/view?usp=drive_link"
         }
       ],
-      "preparados": []
+      "preparados": [{
+          "title": "Preparados de Miologia de Miembro Superior",
+          "url": "https://drive.google.com/file/d/1rAsmlcFQU3aWMKoV0Juemjncnh5RR7sI/view?usp=drive_link"
+        }]
     },
     {
       "modulo": "I",
@@ -437,20 +443,27 @@
         },
         {
           "title": "Introducción a la Angiología",
-          "url": "https://drive.google.com/file/d/1kBOrBG-OhtmTnemF0jbHWVEIU_MrqDvE/view?usp=drive_link"
+          "url": "https://drive.google.com/file/d/1YqQ8Q0U3xHeuHLMewYOZqOz6O-Lb_h-L/view?usp=drive_link"
         }
       ],
       "practicos": [
         {
           "title": "Orientación para Angiología de Miembro Superior",
-          "url": "https://drive.google.com/file/d/1gdjHTJWxi71EaC-yc1sLKqEBdXgD8zTm/view?usp=drive_link"
+          "url": "https://drive.google.com/file/d/1bopXA-ugBJPwawN0HDat_NyARNNzDvdT/view?usp=drive_link"
         },
         {
           "title": "Orientación para Neurología de Miembro Superior",
-          "url": "https://drive.google.com/file/d/16frOzkgytRskvjX20-ps5C9bBI4Q4QGb/view?usp=drive_link"
+          "url": "https://drive.google.com/file/d/1XLKHgRIhrs7AvfYMLlOQqTjPm90s1Q2v/view?usp=drive_link"
         }
       ],
-      "preparados": []
+      "preparados": [{
+          "title": "Preparados de Angiología de Miembro Superior",
+          "url": "https://drive.google.com/file/d/1iLO3iQcKVjMbHMmc21hUfOvN98fQpB_H/view?usp=drive_link"
+        },
+        {
+          "title": "Preparados de Neurología de Miembro Superior",
+          "url": "https://drive.google.com/file/d/1kxAoFuXU5T0RsHdj4EJ5i0RFiYzUGP6O/view?usp=drive_link"
+        }]
     },
     {
       "modulo": "I",
@@ -465,10 +478,13 @@
       "practicos": [
         {
           "title": "Orientación para Topografía de Miembro Superior",
-          "url": "https://drive.google.com/file/d/1jrAcZ1Zp9jT2rUhiAR4mCoa-ymVkYAo7/view?usp=drive_link"
+          "url": "https://drive.google.com/file/d/1AWZtbEtgtKM6P3VCmoPeuC9JlYxWVE93/view?usp=sharing"
         }
       ],
-      "preparados": []
+      "preparados": [{
+          "title": "Preparados de Topografía de Miembro Superior",
+          "url": "https://drive.google.com/file/d/10mQx97v1UEUUC7Ac0ZNMzKbED67kn0Xn/view?usp=sharing"
+        }]
     },
     {
       "modulo": "I",
