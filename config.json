@@ -1451,13 +1451,13 @@
           {
             "semana": 23,
             "rango": "14/9 - 18/9",
-            "observaciones": "SEMANA JORNADAS - NO HAY CLASES"
+             "tp": 22,
+             "feriados": []
           },
           {
             "semana": 24,
             "rango": "21/9 - 25/9",
-            "tp": 22,
-            "feriados": []
+            "observaciones": "SEMANA JORNADAS - NO HAY CLASES"
           },
           {
             "semana": 25,
